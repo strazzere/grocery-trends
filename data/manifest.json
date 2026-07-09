@@ -1,0 +1,24 @@
+{
+  "generatedAt": "2026-07-09T22:10:53.200Z",
+  "locations": [
+    {
+      "id": "blue-oaks",
+      "name": "Nugget Markets Roseville Blue Oaks",
+      "storeId": 20
+    },
+    {
+      "id": "granite-bay",
+      "name": "Nugget Markets Granite Bay",
+      "storeId": 21
+    },
+    {
+      "id": "rocklin",
+      "name": "Nugget Markets Rocklin",
+      "storeId": 22
+    }
+  ],
+  "weeks": [
+    "2026-07-08"
+  ],
+  "latestWeek": "2026-07-08"
+}
