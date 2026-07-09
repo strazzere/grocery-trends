@@ -1,0 +1,46 @@
+{
+  "name": "nugget-specials",
+  "version": "1.0.0",
+  "description": "Scrapes Nugget Market weekly specials for configured stores, with trend analysis and a GitHub Pages dashboard",
+  "type": "module",
+  "main": "dist/index.js",
+  "bin": {
+    "nugget-specials": "dist/cli/index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "scrape": "tsx src/cli/index.ts scrape",
+    "analyze": "tsx src/cli/index.ts analyze",
+    "validate": "tsx src/cli/index.ts validate",
+    "list": "tsx src/cli/index.ts list",
+    "cli": "tsx src/cli/index.ts",
+    "test": "node --import tsx --test tests/*.test.ts",
+    "format": "biome format --write",
+    "lint": "biome lint",
+    "check": "biome check --write"
+  },
+  "keywords": [
+    "scraper",
+    "grocery",
+    "nugget-market",
+    "deals",
+    "typescript"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.18.1",
+    "axios-retry": "^4.5.0",
+    "cheerio": "^1.2.0",
+    "commander": "^15.0.0",
+    "date-fns": "^4.4.0",
+    "winston": "^3.19.0",
+    "zod": "^4.4.3"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "^2.5.3",
+    "@types/node": "^26.1.1",
+    "tsx": "^4.23.0",
+    "typescript": "^7.0.2"
+  }
+}

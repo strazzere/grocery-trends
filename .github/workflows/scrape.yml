@@ -1,0 +1,73 @@
+name: Scrape Nugget Specials
+
+on:
+  schedule:
+    # 15:00 UTC every Wednesday = 08:00 PDT, just after the new weekly ad goes live.
+    - cron: '0 15 * * 3'
+  workflow_dispatch: # allow manual runs
+
+# Needed for peaceiris/actions-gh-pages to push to the gh-pages branch.
+permissions:
+  contents: write
+
+# Avoid overlapping runs clobbering the gh-pages history.
+concurrency:
+  group: scrape-nugget
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      # Pull the existing published data so the analyzer sees the full history and
+      # so republishing preserves every prior week. First run (no branch) is fine.
+      - name: Checkout existing gh-pages data
+        uses: actions/checkout@v4
+        continue-on-error: true
+        with:
+          ref: gh-pages
+          path: public
+
+      - name: Prepare publish dir
+        # Drop the nested .git from the gh-pages checkout so the publish step
+        # treats public/ purely as content, and make sure data/ exists on first run.
+        run: |
+          rm -rf public/.git
+          mkdir -p public/data
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build
+        run: npm run build
+
+      - name: Scrape weekly specials
+        run: node dist/cli/index.js scrape --all --data-dir public/data
+
+      - name: Compute trends & deal scores
+        run: node dist/cli/index.js analyze --data-dir public/data
+
+      - name: Copy dashboard into publish dir
+        run: cp site/index.html site/app.js site/style.css public/
+
+      - name: Publish to gh-pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
+          publish_branch: gh-pages
+          # public/ already contains all prior weeks (checked out above) + this week,
+          # so a clean publish preserves the full accumulated history.
+          keep_files: false
+          user_name: 'github-actions[bot]'
+          user_email: 'github-actions[bot]@users.noreply.github.com'
+          commit_message: 'Update specials data'

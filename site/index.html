@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Nugget Markets Weekly Specials & Deal Trends</title>
+  <link rel="stylesheet" href="./style.css" />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🛒</text></svg>" />
+</head>
+<body>
+  <header class="site">
+    <div class="wrap">
+      <h1>🛒 Nugget Markets Weekly Specials</h1>
+      <div class="sub" id="week-sub">Loading…</div>
+    </div>
+  </header>
+
+  <div class="wrap">
+    <div class="banners" id="banners"></div>
+
+    <nav class="tabs" id="tabs">
+      <button data-tab="deals" class="active">Deals</button>
+      <button data-tab="compare">Compare Stores</button>
+      <button data-tab="trends">Price Trends</button>
+      <button data-tab="changes">Weekly Changes</button>
+      <button data-tab="insights">Insights</button>
+      <button data-tab="watchlist">★ Watchlist</button>
+    </nav>
+
+    <!-- DEALS -->
+    <section id="tab-deals">
+      <div class="controls">
+        <input type="search" id="search" placeholder="Search products…" />
+        <div class="store-toggle" id="store-toggle"></div>
+        <select id="dept-select"><option value="">All departments</option></select>
+        <select id="sort-select">
+          <option value="score">Sort: Best deal score</option>
+          <option value="discount">Biggest % off</option>
+          <option value="save">Biggest $ off</option>
+          <option value="unit">Lowest unit price</option>
+          <option value="price-asc">Price: low → high</option>
+          <option value="price-desc">Price: high → low</option>
+        </select>
+        <label class="toggle"><input type="checkbox" id="strong-only" /> Strong deals only</label>
+      </div>
+      <div class="chips" id="label-chips"></div>
+      <div class="grid" id="deals-grid"></div>
+    </section>
+
+    <!-- COMPARE -->
+    <section id="tab-compare" hidden>
+      <div class="panel">
+        <h3>Same item, three stores</h3>
+        <p class="muted" id="compare-note"></p>
+        <div class="table-scroll">
+          <table class="data" id="compare-table"></table>
+        </div>
+      </div>
+    </section>
+
+    <!-- TRENDS -->
+    <section id="tab-trends" hidden>
+      <div class="panel">
+        <h3>Price history</h3>
+        <select class="trend-pick" id="trend-pick"></select>
+        <canvas id="trend-chart" height="120"></canvas>
+        <p class="muted" id="trend-note"></p>
+      </div>
+    </section>
+
+    <!-- CHANGES -->
+    <section id="tab-changes" hidden>
+      <div class="panel">
+        <h3>What changed this week</h3>
+        <p class="muted" id="changes-note"></p>
+        <div class="diff-cols" id="changes-cols"></div>
+      </div>
+    </section>
+
+    <!-- INSIGHTS -->
+    <section id="tab-insights" hidden>
+      <div class="two-col">
+        <div class="panel">
+          <h3>Specials by department</h3>
+          <canvas id="dept-chart" height="220"></canvas>
+        </div>
+        <div class="panel">
+          <h3>Biggest deals this week</h3>
+          <ol class="leader" id="leaderboard"></ol>
+        </div>
+      </div>
+      <div class="panel">
+        <h3>Average savings by department</h3>
+        <canvas id="save-chart" height="200"></canvas>
+      </div>
+    </section>
+
+    <!-- WATCHLIST -->
+    <section id="tab-watchlist" hidden>
+      <div class="grid" id="watchlist-grid"></div>
+      <p class="empty" id="watchlist-empty" hidden>No items tracked yet. Tap the ★ on any deal to follow its price.</p>
+    </section>
+  </div>
+
+  <footer class="site">
+    <div class="wrap" id="footer-note"></div>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+  <script src="./app.js"></script>
+</body>
+</html>
