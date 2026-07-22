@@ -389,16 +389,35 @@ function renderCompare() {
 }
 
 // ---------- trends ----------
+function trendPointCount(ph) {
+  return Object.values(ph.series).reduce(
+    (n, pts) => n + pts.filter((p) => p.price !== null).length,
+    0,
+  );
+}
 function renderTrends() {
   const pick = $('#trend-pick');
   const _names = skuNameMap();
-  const opts = state.trends.priceHistory
-    .slice()
-    .sort((a, b) => a.name.localeCompare(b.name))
+  // A trend needs a line, not a lone dot — only offer items with >1 data point.
+  const trendable = state.trends.priceHistory
+    .filter((ph) => trendPointCount(ph) > 1)
+    .sort((a, b) => a.name.localeCompare(b.name));
+  const opts = trendable
     .map((ph) => `<option value="${ph.sku}">${ph.name}</option>`)
     .join('');
   pick.innerHTML = opts;
   const single = state.manifest.weeks.length < 2;
+  if (trendable.length === 0) {
+    $('#trend-note').textContent = single
+      ? 'Only one week on record so far — trend lines fill in as new weekly ads are captured.'
+      : 'No items with more than one price observation yet — trends fill in as SKUs recur.';
+    drawChart('trend', 'trend-chart', {
+      type: 'line',
+      data: { labels: state.trends.weeks, datasets: [] },
+      options: chartOpts('$'),
+    });
+    return;
+  }
   $('#trend-note').textContent = single
     ? 'Only one week on record so far — trend lines fill in as new weekly ads are captured.'
     : `Tracking ${state.manifest.weeks.length} weeks of prices.`;
