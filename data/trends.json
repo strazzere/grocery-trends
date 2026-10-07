@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T15:02:38.365Z",
+  "generatedAt": "2026-10-07T15:02:02.527Z",
   "weeks": [
     "2026-07-08",
     "2026-07-15",
@@ -13,14 +13,15 @@
     "2026-09-09",
     "2026-09-16",
     "2026-09-23",
-    "2026-09-30"
+    "2026-09-30",
+    "2026-10-07"
   ],
   "locations": [
     "blue-oaks",
     "granite-bay",
     "rocklin"
   ],
-  "latestWeek": "2026-09-30",
+  "latestWeek": "2026-10-07",
   "priceHistory": [
     {
       "sku": "1328-515",
@@ -796,6 +797,12 @@
             "price": 2.29,
             "save": 0.2,
             "unitPrice": 0.1431
+          },
+          {
+            "week": "2026-10-07",
+            "price": 2.29,
+            "save": 0.2,
+            "unitPrice": 0.1431
           }
         ],
         "granite-bay": [
@@ -816,6 +823,12 @@
             "price": 2.29,
             "save": 0.2,
             "unitPrice": 0.1431
+          },
+          {
+            "week": "2026-10-07",
+            "price": 2.29,
+            "save": 0.2,
+            "unitPrice": 0.1431
           }
         ],
         "rocklin": [
@@ -833,6 +846,12 @@
           },
           {
             "week": "2026-08-26",
+            "price": 2.29,
+            "save": 0.2,
+            "unitPrice": 0.1431
+          },
+          {
+            "week": "2026-10-07",
             "price": 2.29,
             "save": 0.2,
             "unitPrice": 0.1431
@@ -863,6 +882,12 @@
             "price": 5.99,
             "save": 1,
             "unitPrice": 0.3744
+          },
+          {
+            "week": "2026-10-07",
+            "price": 5.99,
+            "save": 1,
+            "unitPrice": 0.3744
           }
         ],
         "granite-bay": [
@@ -883,6 +908,12 @@
             "price": 5.99,
             "save": 1,
             "unitPrice": 0.3744
+          },
+          {
+            "week": "2026-10-07",
+            "price": 5.99,
+            "save": 1,
+            "unitPrice": 0.3744
           }
         ],
         "rocklin": [
@@ -900,6 +931,12 @@
           },
           {
             "week": "2026-09-09",
+            "price": 5.99,
+            "save": 1,
+            "unitPrice": 0.3744
+          },
+          {
+            "week": "2026-10-07",
             "price": 5.99,
             "save": 1,
             "unitPrice": 0.3744
@@ -1131,6 +1168,12 @@
             "price": 17.99,
             "save": 2,
             "unitPrice": 1.1244
+          },
+          {
+            "week": "2026-10-07",
+            "price": 17.99,
+            "save": 2,
+            "unitPrice": 1.1244
           }
         ],
         "granite-bay": [
@@ -1151,6 +1194,12 @@
             "price": 17.99,
             "save": 2,
             "unitPrice": 1.1244
+          },
+          {
+            "week": "2026-10-07",
+            "price": 17.99,
+            "save": 2,
+            "unitPrice": 1.1244
           }
         ],
         "rocklin": [
@@ -1168,6 +1217,12 @@
           },
           {
             "week": "2026-09-23",
+            "price": 17.99,
+            "save": 2,
+            "unitPrice": 1.1244
+          },
+          {
+            "week": "2026-10-07",
             "price": 17.99,
             "save": 2,
             "unitPrice": 1.1244
@@ -1707,8 +1762,8 @@
     },
     {
       "sku": "3",
-      "name": "Pasta Prima Ravioli or Tortellini",
-      "department": "deli",
+      "name": "Mandarin Tangerines",
+      "department": "produce",
       "series": {
         "blue-oaks": [
           {
@@ -1731,6 +1786,11 @@
             "price": 5.99,
             "save": 2.4,
             "unitPrice": 0.4279
+          },
+          {
+            "week": "2026-10-07",
+            "price": 6.99,
+            "save": 1.5
           }
         ],
         "granite-bay": [
@@ -1754,6 +1814,11 @@
             "price": 5.99,
             "save": 2.4,
             "unitPrice": 0.4279
+          },
+          {
+            "week": "2026-10-07",
+            "price": 6.99,
+            "save": 1.5
           }
         ],
         "rocklin": [
@@ -1777,6 +1842,11 @@
             "price": 5.99,
             "save": 2.4,
             "unitPrice": 0.4279
+          },
+          {
+            "week": "2026-10-07",
+            "price": 6.99,
+            "save": 1.5
           }
         ]
       }
@@ -3168,6 +3238,12 @@
             "price": 1.99,
             "save": 0.5,
             "unitPrice": 0.1244
+          },
+          {
+            "week": "2026-10-07",
+            "price": 1.99,
+            "save": 0.5,
+            "unitPrice": 0.1244
           }
         ],
         "granite-bay": [
@@ -3188,6 +3264,12 @@
             "price": 1.99,
             "save": 0.5,
             "unitPrice": 0.1244
+          },
+          {
+            "week": "2026-10-07",
+            "price": 1.99,
+            "save": 0.5,
+            "unitPrice": 0.1244
           }
         ],
         "rocklin": [
@@ -3205,6 +3287,12 @@
           },
           {
             "week": "2026-09-09",
+            "price": 1.99,
+            "save": 0.5,
+            "unitPrice": 0.1244
+          },
+          {
+            "week": "2026-10-07",
             "price": 1.99,
             "save": 0.5,
             "unitPrice": 0.1244
@@ -3379,6 +3467,11 @@
             "week": "2026-09-02",
             "price": 27.99,
             "save": 5
+          },
+          {
+            "week": "2026-10-07",
+            "price": 26.99,
+            "save": 6
           }
         ],
         "granite-bay": [
@@ -3391,6 +3484,11 @@
             "week": "2026-09-02",
             "price": 27.99,
             "save": 5
+          },
+          {
+            "week": "2026-10-07",
+            "price": 26.99,
+            "save": 6
           }
         ],
         "rocklin": [
@@ -3403,6 +3501,11 @@
             "week": "2026-09-02",
             "price": 27.99,
             "save": 5
+          },
+          {
+            "week": "2026-10-07",
+            "price": 26.99,
+            "save": 6
           }
         ]
       }
@@ -3564,6 +3667,12 @@
             "price": 3.99,
             "save": 0.5,
             "unitPrice": 0.2494
+          },
+          {
+            "week": "2026-10-07",
+            "price": 3.99,
+            "save": 0.5,
+            "unitPrice": 0.2494
           }
         ],
         "granite-bay": [
@@ -3584,6 +3693,12 @@
             "price": 3.99,
             "save": 0.5,
             "unitPrice": 0.2494
+          },
+          {
+            "week": "2026-10-07",
+            "price": 3.99,
+            "save": 0.5,
+            "unitPrice": 0.2494
           }
         ],
         "rocklin": [
@@ -3601,6 +3716,12 @@
           },
           {
             "week": "2026-09-02",
+            "price": 3.99,
+            "save": 0.5,
+            "unitPrice": 0.2494
+          },
+          {
+            "week": "2026-10-07",
             "price": 3.99,
             "save": 0.5,
             "unitPrice": 0.2494
@@ -3979,6 +4100,12 @@
             "price": 13.99,
             "save": 3,
             "unitPrice": 0.8744
+          },
+          {
+            "week": "2026-10-07",
+            "price": 12.99,
+            "save": 4,
+            "unitPrice": 0.8119
           }
         ],
         "granite-bay": [
@@ -3999,6 +4126,12 @@
             "price": 13.99,
             "save": 3,
             "unitPrice": 0.8744
+          },
+          {
+            "week": "2026-10-07",
+            "price": 12.99,
+            "save": 4,
+            "unitPrice": 0.8119
           }
         ],
         "rocklin": [
@@ -4019,6 +4152,12 @@
             "price": 13.99,
             "save": 3,
             "unitPrice": 0.8744
+          },
+          {
+            "week": "2026-10-07",
+            "price": 12.99,
+            "save": 4,
+            "unitPrice": 0.8119
           }
         ]
       }
@@ -5371,6 +5510,12 @@
             "price": 4.99,
             "save": 2,
             "unitPrice": 0.3119
+          },
+          {
+            "week": "2026-10-07",
+            "price": 4.99,
+            "save": 2,
+            "unitPrice": 0.3119
           }
         ],
         "granite-bay": [
@@ -5391,6 +5536,12 @@
             "price": 4.99,
             "save": 2,
             "unitPrice": 0.3119
+          },
+          {
+            "week": "2026-10-07",
+            "price": 4.99,
+            "save": 2,
+            "unitPrice": 0.3119
           }
         ],
         "rocklin": [
@@ -5408,6 +5559,12 @@
           },
           {
             "week": "2026-09-16",
+            "price": 4.99,
+            "save": 2,
+            "unitPrice": 0.3119
+          },
+          {
+            "week": "2026-10-07",
             "price": 4.99,
             "save": 2,
             "unitPrice": 0.3119
@@ -5426,6 +5583,12 @@
             "price": 10.99,
             "save": 2,
             "unitPrice": 0.6869
+          },
+          {
+            "week": "2026-10-07",
+            "price": 10.99,
+            "save": 2,
+            "unitPrice": 0.6869
           }
         ],
         "granite-bay": [
@@ -5434,11 +5597,23 @@
             "price": 10.99,
             "save": 2,
             "unitPrice": 0.6869
+          },
+          {
+            "week": "2026-10-07",
+            "price": 10.99,
+            "save": 2,
+            "unitPrice": 0.6869
           }
         ],
         "rocklin": [
           {
             "week": "2026-07-22",
+            "price": 10.99,
+            "save": 2,
+            "unitPrice": 0.6869
+          },
+          {
+            "week": "2026-10-07",
             "price": 10.99,
             "save": 2,
             "unitPrice": 0.6869
@@ -5610,6 +5785,12 @@
             "price": 29.99,
             "save": 3,
             "unitPrice": 1.8744
+          },
+          {
+            "week": "2026-10-07",
+            "price": 29.99,
+            "save": 3,
+            "unitPrice": 1.8744
           }
         ],
         "granite-bay": [
@@ -5624,6 +5805,12 @@
             "price": 29.99,
             "save": 3,
             "unitPrice": 1.8744
+          },
+          {
+            "week": "2026-10-07",
+            "price": 29.99,
+            "save": 3,
+            "unitPrice": 1.8744
           }
         ],
         "rocklin": [
@@ -5635,6 +5822,12 @@
           },
           {
             "week": "2026-08-26",
+            "price": 29.99,
+            "save": 3,
+            "unitPrice": 1.8744
+          },
+          {
+            "week": "2026-10-07",
             "price": 29.99,
             "save": 3,
             "unitPrice": 1.8744
@@ -5866,6 +6059,11 @@
             "week": "2026-07-22",
             "price": 5.99,
             "save": 4
+          },
+          {
+            "week": "2026-10-07",
+            "price": 5.99,
+            "save": 4
           }
         ],
         "granite-bay": [
@@ -5873,11 +6071,21 @@
             "week": "2026-07-22",
             "price": 5.99,
             "save": 4
+          },
+          {
+            "week": "2026-10-07",
+            "price": 5.99,
+            "save": 4
           }
         ],
         "rocklin": [
           {
             "week": "2026-07-22",
+            "price": 5.99,
+            "save": 4
+          },
+          {
+            "week": "2026-10-07",
             "price": 5.99,
             "save": 4
           }
@@ -6145,6 +6353,11 @@
             "week": "2026-09-30",
             "price": 4.99,
             "save": 2
+          },
+          {
+            "week": "2026-10-07",
+            "price": 4.99,
+            "save": 2
           }
         ],
         "granite-bay": [
@@ -6162,6 +6375,11 @@
             "week": "2026-09-30",
             "price": 4.99,
             "save": 2
+          },
+          {
+            "week": "2026-10-07",
+            "price": 4.99,
+            "save": 2
           }
         ],
         "rocklin": [
@@ -6177,6 +6395,11 @@
           },
           {
             "week": "2026-09-30",
+            "price": 4.99,
+            "save": 2
+          },
+          {
+            "week": "2026-10-07",
             "price": 4.99,
             "save": 2
           }
@@ -6203,6 +6426,11 @@
             "week": "2026-09-30",
             "price": 6.99,
             "save": 1
+          },
+          {
+            "week": "2026-10-07",
+            "price": 6.99,
+            "save": 1
           }
         ],
         "granite-bay": [
@@ -6220,6 +6448,11 @@
             "week": "2026-09-30",
             "price": 6.99,
             "save": 1
+          },
+          {
+            "week": "2026-10-07",
+            "price": 6.99,
+            "save": 1
           }
         ],
         "rocklin": [
@@ -6235,6 +6468,11 @@
           },
           {
             "week": "2026-09-30",
+            "price": 6.99,
+            "save": 1
+          },
+          {
+            "week": "2026-10-07",
             "price": 6.99,
             "save": 1
           }
@@ -6261,6 +6499,11 @@
             "week": "2026-09-30",
             "price": 5.49,
             "save": 1
+          },
+          {
+            "week": "2026-10-07",
+            "price": 5.49,
+            "save": 1
           }
         ],
         "granite-bay": [
@@ -6278,6 +6521,11 @@
             "week": "2026-09-30",
             "price": 5.49,
             "save": 1
+          },
+          {
+            "week": "2026-10-07",
+            "price": 5.49,
+            "save": 1
           }
         ],
         "rocklin": [
@@ -6293,6 +6541,11 @@
           },
           {
             "week": "2026-09-30",
+            "price": 5.49,
+            "save": 1
+          },
+          {
+            "week": "2026-10-07",
             "price": 5.49,
             "save": 1
           }
@@ -6491,6 +6744,11 @@
             "week": "2026-09-30",
             "price": 7.99,
             "save": 1
+          },
+          {
+            "week": "2026-10-07",
+            "price": 7.99,
+            "save": 1
           }
         ],
         "granite-bay": [
@@ -6508,6 +6766,11 @@
             "week": "2026-09-30",
             "price": 7.99,
             "save": 1
+          },
+          {
+            "week": "2026-10-07",
+            "price": 7.99,
+            "save": 1
           }
         ],
         "rocklin": [
@@ -6523,6 +6786,11 @@
           },
           {
             "week": "2026-09-30",
+            "price": 7.99,
+            "save": 1
+          },
+          {
+            "week": "2026-10-07",
             "price": 7.99,
             "save": 1
           }
@@ -7376,6 +7644,12 @@
             "price": 14.99,
             "save": 3,
             "unitPrice": 0.9369
+          },
+          {
+            "week": "2026-10-07",
+            "price": 15.99,
+            "save": 2,
+            "unitPrice": 0.9994
           }
         ],
         "granite-bay": [
@@ -7390,6 +7664,12 @@
             "price": 14.99,
             "save": 3,
             "unitPrice": 0.9369
+          },
+          {
+            "week": "2026-10-07",
+            "price": 15.99,
+            "save": 2,
+            "unitPrice": 0.9994
           }
         ],
         "rocklin": [
@@ -7404,6 +7684,12 @@
             "price": 14.99,
             "save": 3,
             "unitPrice": 0.9369
+          },
+          {
+            "week": "2026-10-07",
+            "price": 15.99,
+            "save": 2,
+            "unitPrice": 0.9994
           }
         ]
       }
@@ -8090,6 +8376,11 @@
             "week": "2026-08-19",
             "price": 5,
             "save": 1
+          },
+          {
+            "week": "2026-10-07",
+            "price": 4.5,
+            "save": 1.5
           }
         ],
         "granite-bay": [
@@ -8102,6 +8393,11 @@
             "week": "2026-08-19",
             "price": 5,
             "save": 1
+          },
+          {
+            "week": "2026-10-07",
+            "price": 4.5,
+            "save": 1.5
           }
         ],
         "rocklin": [
@@ -8114,13 +8410,18 @@
             "week": "2026-08-19",
             "price": 5,
             "save": 1
+          },
+          {
+            "week": "2026-10-07",
+            "price": 4.5,
+            "save": 1.5
           }
         ]
       }
     },
     {
       "sku": "22110600000",
-      "name": "Fryer’s Turkey",
+      "name": "The Fryer’s Turkey Breast",
       "department": "kitchen",
       "series": {
         "blue-oaks": [
@@ -8135,6 +8436,12 @@
             "price": 15.99,
             "save": 1,
             "unitPrice": 0.9994
+          },
+          {
+            "week": "2026-10-07",
+            "price": 15.99,
+            "save": 1,
+            "unitPrice": 0.9994
           }
         ],
         "granite-bay": [
@@ -8149,6 +8456,12 @@
             "price": 15.99,
             "save": 1,
             "unitPrice": 0.9994
+          },
+          {
+            "week": "2026-10-07",
+            "price": 15.99,
+            "save": 1,
+            "unitPrice": 0.9994
           }
         ],
         "rocklin": [
@@ -8160,6 +8473,12 @@
           },
           {
             "week": "2026-08-05",
+            "price": 15.99,
+            "save": 1,
+            "unitPrice": 0.9994
+          },
+          {
+            "week": "2026-10-07",
             "price": 15.99,
             "save": 1,
             "unitPrice": 0.9994
@@ -10475,6 +10794,12 @@
             "price": 26.99,
             "save": 3,
             "unitPrice": 1.6869
+          },
+          {
+            "week": "2026-10-07",
+            "price": 24.99,
+            "save": 5,
+            "unitPrice": 1.5619
           }
         ],
         "granite-bay": [
@@ -10483,6 +10808,12 @@
             "price": 26.99,
             "save": 3,
             "unitPrice": 1.6869
+          },
+          {
+            "week": "2026-10-07",
+            "price": 24.99,
+            "save": 5,
+            "unitPrice": 1.5619
           }
         ],
         "rocklin": [
@@ -10491,6 +10822,12 @@
             "price": 26.99,
             "save": 3,
             "unitPrice": 1.6869
+          },
+          {
+            "week": "2026-10-07",
+            "price": 24.99,
+            "save": 5,
+            "unitPrice": 1.5619
           }
         ]
       }
@@ -12882,6 +13219,11 @@
             "week": "2026-09-23",
             "price": 4.99,
             "save": 1
+          },
+          {
+            "week": "2026-10-07",
+            "price": 3.99,
+            "save": 2
           }
         ],
         "granite-bay": [
@@ -12899,6 +13241,11 @@
             "week": "2026-09-23",
             "price": 4.99,
             "save": 1
+          },
+          {
+            "week": "2026-10-07",
+            "price": 3.99,
+            "save": 2
           }
         ],
         "rocklin": [
@@ -12916,6 +13263,11 @@
             "week": "2026-09-23",
             "price": 4.99,
             "save": 1
+          },
+          {
+            "week": "2026-10-07",
+            "price": 3.99,
+            "save": 2
           }
         ]
       }
@@ -15307,6 +15659,11 @@
             "week": "2026-09-02",
             "price": 12.95,
             "save": 1
+          },
+          {
+            "week": "2026-10-07",
+            "price": 12.95,
+            "save": 1
           }
         ],
         "granite-bay": [
@@ -15314,11 +15671,21 @@
             "week": "2026-09-02",
             "price": 12.95,
             "save": 1
+          },
+          {
+            "week": "2026-10-07",
+            "price": 12.95,
+            "save": 1
           }
         ],
         "rocklin": [
           {
             "week": "2026-09-02",
+            "price": 12.95,
+            "save": 1
+          },
+          {
+            "week": "2026-10-07",
             "price": 12.95,
             "save": 1
           }
@@ -16982,6 +17349,12 @@
             "price": 2.99,
             "save": 1,
             "unitPrice": 0.1869
+          },
+          {
+            "week": "2026-10-07",
+            "price": 2.99,
+            "save": 1,
+            "unitPrice": 0.1869
           }
         ],
         "granite-bay": [
@@ -16990,11 +17363,23 @@
             "price": 2.99,
             "save": 1,
             "unitPrice": 0.1869
+          },
+          {
+            "week": "2026-10-07",
+            "price": 2.99,
+            "save": 1,
+            "unitPrice": 0.1869
           }
         ],
         "rocklin": [
           {
             "week": "2026-09-16",
+            "price": 2.99,
+            "save": 1,
+            "unitPrice": 0.1869
+          },
+          {
+            "week": "2026-10-07",
             "price": 2.99,
             "save": 1,
             "unitPrice": 0.1869
@@ -18971,6 +19356,12 @@
             "price": 10.99,
             "save": 1,
             "unitPrice": 0.6869
+          },
+          {
+            "week": "2026-10-07",
+            "price": 10.99,
+            "save": 1,
+            "unitPrice": 0.6869
           }
         ],
         "granite-bay": [
@@ -18979,11 +19370,23 @@
             "price": 10.99,
             "save": 1,
             "unitPrice": 0.6869
+          },
+          {
+            "week": "2026-10-07",
+            "price": 10.99,
+            "save": 1,
+            "unitPrice": 0.6869
           }
         ],
         "rocklin": [
           {
             "week": "2026-09-30",
+            "price": 10.99,
+            "save": 1,
+            "unitPrice": 0.6869
+          },
+          {
+            "week": "2026-10-07",
             "price": 10.99,
             "save": 1,
             "unitPrice": 0.6869
@@ -19091,6 +19494,11 @@
             "week": "2026-09-30",
             "price": 5.99,
             "save": 1
+          },
+          {
+            "week": "2026-10-07",
+            "price": 5.99,
+            "save": 1
           }
         ],
         "granite-bay": [
@@ -19098,11 +19506,21 @@
             "week": "2026-09-30",
             "price": 5.99,
             "save": 1
+          },
+          {
+            "week": "2026-10-07",
+            "price": 5.99,
+            "save": 1
           }
         ],
         "rocklin": [
           {
             "week": "2026-09-30",
+            "price": 5.99,
+            "save": 1
+          },
+          {
+            "week": "2026-10-07",
             "price": 5.99,
             "save": 1
           }
@@ -19527,6 +19945,12 @@
             "price": 32.99,
             "save": 4,
             "unitPrice": 2.0619
+          },
+          {
+            "week": "2026-10-07",
+            "price": 32.99,
+            "save": 4,
+            "unitPrice": 2.0619
           }
         ],
         "granite-bay": [
@@ -19535,11 +19959,23 @@
             "price": 32.99,
             "save": 4,
             "unitPrice": 2.0619
+          },
+          {
+            "week": "2026-10-07",
+            "price": 32.99,
+            "save": 4,
+            "unitPrice": 2.0619
           }
         ],
         "rocklin": [
           {
             "week": "2026-09-30",
+            "price": 32.99,
+            "save": 4,
+            "unitPrice": 2.0619
+          },
+          {
+            "week": "2026-10-07",
             "price": 32.99,
             "save": 4,
             "unitPrice": 2.0619
@@ -19792,37 +20228,830 @@
           }
         ]
       }
+    },
+    {
+      "sku": "20180700000",
+      "name": "USDA Prime Beef Top Sirloin",
+      "department": "meat",
+      "series": {
+        "blue-oaks": [
+          {
+            "week": "2026-10-07",
+            "price": 12.99,
+            "save": 7,
+            "unitPrice": 0.8119
+          }
+        ],
+        "granite-bay": [
+          {
+            "week": "2026-10-07",
+            "price": 12.99,
+            "save": 7,
+            "unitPrice": 0.8119
+          }
+        ],
+        "rocklin": [
+          {
+            "week": "2026-10-07",
+            "price": 12.99,
+            "save": 7,
+            "unitPrice": 0.8119
+          }
+        ]
+      }
+    },
+    {
+      "sku": "1722476012",
+      "name": "Conundrum Red Blend Wine",
+      "department": "adult-beverages",
+      "series": {
+        "blue-oaks": [
+          {
+            "week": "2026-10-07",
+            "price": 14.99,
+            "save": 11,
+            "unitPrice": 0.02
+          }
+        ],
+        "granite-bay": [
+          {
+            "week": "2026-10-07",
+            "price": 14.99,
+            "save": 11,
+            "unitPrice": 0.02
+          }
+        ],
+        "rocklin": [
+          {
+            "week": "2026-10-07",
+            "price": 14.99,
+            "save": 11,
+            "unitPrice": 0.02
+          }
+        ]
+      }
+    },
+    {
+      "sku": "5783602117",
+      "name": "Wild Wonders Cherry Tomatoes",
+      "department": "produce",
+      "series": {
+        "blue-oaks": [
+          {
+            "week": "2026-10-07",
+            "price": 5.99,
+            "save": 2
+          }
+        ],
+        "granite-bay": [
+          {
+            "week": "2026-10-07",
+            "price": 5.99,
+            "save": 2
+          }
+        ],
+        "rocklin": [
+          {
+            "week": "2026-10-07",
+            "price": 5.99,
+            "save": 2
+          }
+        ]
+      }
+    },
+    {
+      "sku": "94816",
+      "name": "Organic Purple, White, Orange, Red or Japanese Sweet Potatoes",
+      "department": "produce",
+      "series": {
+        "blue-oaks": [
+          {
+            "week": "2026-10-07",
+            "price": 2.49,
+            "save": 0.5,
+            "unitPrice": 0.1556
+          }
+        ],
+        "granite-bay": [
+          {
+            "week": "2026-10-07",
+            "price": 2.49,
+            "save": 0.5,
+            "unitPrice": 0.1556
+          }
+        ],
+        "rocklin": [
+          {
+            "week": "2026-10-07",
+            "price": 2.49,
+            "save": 0.5,
+            "unitPrice": 0.1556
+          }
+        ]
+      }
+    },
+    {
+      "sku": "4053",
+      "name": "Lemons",
+      "department": "produce",
+      "series": {
+        "blue-oaks": [
+          {
+            "week": "2026-10-07",
+            "price": 0.5,
+            "save": 0.49
+          }
+        ],
+        "granite-bay": [
+          {
+            "week": "2026-10-07",
+            "price": 0.5,
+            "save": 0.49
+          }
+        ],
+        "rocklin": [
+          {
+            "week": "2026-10-07",
+            "price": 0.5,
+            "save": 0.49
+          }
+        ]
+      }
+    },
+    {
+      "sku": "20170200000",
+      "name": "Wagyu Chuck Roasts",
+      "department": "meat",
+      "series": {
+        "blue-oaks": [
+          {
+            "week": "2026-10-07",
+            "price": 13.99,
+            "save": 2,
+            "unitPrice": 0.8744
+          }
+        ],
+        "granite-bay": [
+          {
+            "week": "2026-10-07",
+            "price": 13.99,
+            "save": 2,
+            "unitPrice": 0.8744
+          }
+        ],
+        "rocklin": [
+          {
+            "week": "2026-10-07",
+            "price": 13.99,
+            "save": 2,
+            "unitPrice": 0.8744
+          }
+        ]
+      }
+    },
+    {
+      "sku": "81836002012",
+      "name": "Grass-Fed Beef Stew Meat",
+      "department": "meat",
+      "series": {
+        "blue-oaks": [
+          {
+            "week": "2026-10-07",
+            "price": 11.99,
+            "save": 1
+          }
+        ],
+        "granite-bay": [
+          {
+            "week": "2026-10-07",
+            "price": 11.99,
+            "save": 1
+          }
+        ],
+        "rocklin": [
+          {
+            "week": "2026-10-07",
+            "price": 11.99,
+            "save": 1
+          }
+        ]
+      }
+    },
+    {
+      "sku": "1356200052",
+      "name": "Annie’s Graham Crackers",
+      "department": "staples",
+      "series": {
+        "blue-oaks": [
+          {
+            "week": "2026-10-07",
+            "price": 3.99,
+            "save": 3
+          }
+        ],
+        "granite-bay": [
+          {
+            "week": "2026-10-07",
+            "price": 3.99,
+            "save": 3
+          }
+        ],
+        "rocklin": [
+          {
+            "week": "2026-10-07",
+            "price": 3.99,
+            "save": 3
+          }
+        ]
+      }
+    },
+    {
+      "sku": "3915301002",
+      "name": "Colavita Extra Virgin Olive Oil",
+      "department": "staples",
+      "series": {
+        "blue-oaks": [
+          {
+            "week": "2026-10-07",
+            "price": 22.99,
+            "save": 12
+          }
+        ],
+        "granite-bay": [
+          {
+            "week": "2026-10-07",
+            "price": 22.99,
+            "save": 12
+          }
+        ],
+        "rocklin": [
+          {
+            "week": "2026-10-07",
+            "price": 22.99,
+            "save": 12
+          }
+        ]
+      }
+    },
+    {
+      "sku": "4010000067",
+      "name": "Fleischmann’s Simply Homemade Cornbread Baking Mix",
+      "department": "staples",
+      "series": {
+        "blue-oaks": [
+          {
+            "week": "2026-10-07",
+            "price": 2.5,
+            "save": 1.49
+          }
+        ],
+        "granite-bay": [
+          {
+            "week": "2026-10-07",
+            "price": 2.5,
+            "save": 1.49
+          }
+        ],
+        "rocklin": [
+          {
+            "week": "2026-10-07",
+            "price": 2.5,
+            "save": 1.49
+          }
+        ]
+      }
+    },
+    {
+      "sku": "85921600300",
+      "name": "Cup4Cup Gluten-Free Flour",
+      "department": "staples",
+      "series": {
+        "blue-oaks": [
+          {
+            "week": "2026-10-07",
+            "price": 13.99,
+            "save": 9
+          }
+        ],
+        "granite-bay": [
+          {
+            "week": "2026-10-07",
+            "price": 13.99,
+            "save": 9
+          }
+        ],
+        "rocklin": [
+          {
+            "week": "2026-10-07",
+            "price": 13.99,
+            "save": 9
+          }
+        ]
+      }
+    },
+    {
+      "sku": "18",
+      "name": "18 Chestnuts Soups",
+      "department": "staples",
+      "series": {
+        "blue-oaks": [
+          {
+            "week": "2026-10-07",
+            "price": 5.99,
+            "save": 6
+          }
+        ],
+        "granite-bay": [
+          {
+            "week": "2026-10-07",
+            "price": 5.99,
+            "save": 6
+          }
+        ],
+        "rocklin": [
+          {
+            "week": "2026-10-07",
+            "price": 5.99,
+            "save": 6
+          }
+        ]
+      }
+    },
+    {
+      "sku": "8500001163",
+      "name": "Louis M. Martini Sonoma County Cabernet Sauvignon",
+      "department": "adult-beverages",
+      "series": {
+        "blue-oaks": [
+          {
+            "week": "2026-10-07",
+            "price": 16.99,
+            "save": 10
+          }
+        ],
+        "granite-bay": [
+          {
+            "week": "2026-10-07",
+            "price": 16.99,
+            "save": 10
+          }
+        ],
+        "rocklin": [
+          {
+            "week": "2026-10-07",
+            "price": 16.99,
+            "save": 10
+          }
+        ]
+      }
+    },
+    {
+      "sku": "8807618695",
+      "name": "Astral Tequila Blanco",
+      "department": "adult-beverages",
+      "series": {
+        "blue-oaks": [
+          {
+            "week": "2026-10-07",
+            "price": 17.99,
+            "save": 8
+          }
+        ],
+        "granite-bay": [
+          {
+            "week": "2026-10-07",
+            "price": 17.99,
+            "save": 8
+          }
+        ],
+        "rocklin": [
+          {
+            "week": "2026-10-07",
+            "price": 17.99,
+            "save": 8
+          }
+        ]
+      }
+    },
+    {
+      "sku": "72109419905",
+      "name": "Goslings Black Seal Bermuda Black Rum",
+      "department": "adult-beverages",
+      "series": {
+        "blue-oaks": [
+          {
+            "week": "2026-10-07",
+            "price": 19.99,
+            "save": 8
+          }
+        ],
+        "granite-bay": [
+          {
+            "week": "2026-10-07",
+            "price": 19.99,
+            "save": 8
+          }
+        ],
+        "rocklin": [
+          {
+            "week": "2026-10-07",
+            "price": 19.99,
+            "save": 8
+          }
+        ]
+      }
+    },
+    {
+      "sku": "74265115210",
+      "name": "Ferrari‑Carano Pinot Grigio",
+      "department": "adult-beverages",
+      "series": {
+        "blue-oaks": [
+          {
+            "week": "2026-10-07",
+            "price": 12.99,
+            "save": 9
+          }
+        ],
+        "granite-bay": [
+          {
+            "week": "2026-10-07",
+            "price": 12.99,
+            "save": 9
+          }
+        ],
+        "rocklin": [
+          {
+            "week": "2026-10-07",
+            "price": 12.99,
+            "save": 9
+          }
+        ]
+      }
+    },
+    {
+      "sku": "74459814778",
+      "name": "Schug Sonoma Coast Pinot Noir",
+      "department": "adult-beverages",
+      "series": {
+        "blue-oaks": [
+          {
+            "week": "2026-10-07",
+            "price": 16.99,
+            "save": 13
+          }
+        ],
+        "granite-bay": [
+          {
+            "week": "2026-10-07",
+            "price": 16.99,
+            "save": 13
+          }
+        ],
+        "rocklin": [
+          {
+            "week": "2026-10-07",
+            "price": 16.99,
+            "save": 13
+          }
+        ]
+      }
+    },
+    {
+      "sku": "81153801956",
+      "name": "Proper No. Twelve Irish Whiskey",
+      "department": "adult-beverages",
+      "series": {
+        "blue-oaks": [
+          {
+            "week": "2026-10-07",
+            "price": 17.99,
+            "save": 8
+          }
+        ],
+        "granite-bay": [
+          {
+            "week": "2026-10-07",
+            "price": 17.99,
+            "save": 8
+          }
+        ],
+        "rocklin": [
+          {
+            "week": "2026-10-07",
+            "price": 17.99,
+            "save": 8
+          }
+        ]
+      }
+    },
+    {
+      "sku": "5",
+      "name": "Caramel Apple Cake",
+      "department": "bakery",
+      "series": {
+        "blue-oaks": [
+          {
+            "week": "2026-10-07",
+            "price": 24.99,
+            "save": 1
+          }
+        ],
+        "granite-bay": [
+          {
+            "week": "2026-10-07",
+            "price": 24.99,
+            "save": 1
+          }
+        ],
+        "rocklin": [
+          {
+            "week": "2026-10-07",
+            "price": 24.99,
+            "save": 1
+          }
+        ]
+      }
+    },
+    {
+      "sku": "88112245063",
+      "name": "Crab Stick Philly Roll",
+      "department": "kitchen",
+      "series": {
+        "blue-oaks": [
+          {
+            "week": "2026-10-07",
+            "price": 8.75,
+            "save": 1
+          }
+        ],
+        "granite-bay": [
+          {
+            "week": "2026-10-07",
+            "price": 8.75,
+            "save": 1
+          }
+        ],
+        "rocklin": [
+          {
+            "week": "2026-10-07",
+            "price": 8.75,
+            "save": 1
+          }
+        ]
+      }
+    },
+    {
+      "sku": "0022356700000",
+      "name": "The NOLA Sandwich",
+      "department": "kitchen",
+      "series": {
+        "blue-oaks": [
+          {
+            "week": "2026-10-07",
+            "price": 11.99,
+            "save": 1
+          }
+        ],
+        "granite-bay": [
+          {
+            "week": "2026-10-07",
+            "price": 11.99,
+            "save": 1
+          }
+        ],
+        "rocklin": [
+          {
+            "week": "2026-10-07",
+            "price": 11.99,
+            "save": 1
+          }
+        ]
+      }
+    },
+    {
+      "sku": "0022356800000",
+      "name": "The Rio Grande Sandwich",
+      "department": "kitchen",
+      "series": {
+        "blue-oaks": [
+          {
+            "week": "2026-10-07",
+            "price": 13.99,
+            "save": 1
+          }
+        ],
+        "granite-bay": [
+          {
+            "week": "2026-10-07",
+            "price": 13.99,
+            "save": 1
+          }
+        ],
+        "rocklin": [
+          {
+            "week": "2026-10-07",
+            "price": 13.99,
+            "save": 1
+          }
+        ]
+      }
+    },
+    {
+      "sku": "22119400000",
+      "name": "Uncured Pastrami",
+      "department": "kitchen",
+      "series": {
+        "blue-oaks": [
+          {
+            "week": "2026-10-07",
+            "price": 20.99,
+            "save": 1,
+            "unitPrice": 1.3119
+          }
+        ],
+        "granite-bay": [
+          {
+            "week": "2026-10-07",
+            "price": 20.99,
+            "save": 1,
+            "unitPrice": 1.3119
+          }
+        ],
+        "rocklin": [
+          {
+            "week": "2026-10-07",
+            "price": 20.99,
+            "save": 1,
+            "unitPrice": 1.3119
+          }
+        ]
+      }
+    },
+    {
+      "sku": "22155100000",
+      "name": "Caramelized Onion Jack Cheese",
+      "department": "kitchen",
+      "series": {
+        "blue-oaks": [
+          {
+            "week": "2026-10-07",
+            "price": 12.49,
+            "save": 0.5,
+            "unitPrice": 0.7806
+          }
+        ],
+        "granite-bay": [
+          {
+            "week": "2026-10-07",
+            "price": 12.49,
+            "save": 0.5,
+            "unitPrice": 0.7806
+          }
+        ],
+        "rocklin": [
+          {
+            "week": "2026-10-07",
+            "price": 12.49,
+            "save": 0.5,
+            "unitPrice": 0.7806
+          }
+        ]
+      }
+    },
+    {
+      "sku": "22124700000",
+      "name": "Herbed Butternut Squash",
+      "department": "kitchen",
+      "series": {
+        "blue-oaks": [
+          {
+            "week": "2026-10-07",
+            "price": 12.99,
+            "save": 1,
+            "unitPrice": 0.8119
+          }
+        ],
+        "granite-bay": [
+          {
+            "week": "2026-10-07",
+            "price": 12.99,
+            "save": 1,
+            "unitPrice": 0.8119
+          }
+        ],
+        "rocklin": [
+          {
+            "week": "2026-10-07",
+            "price": 12.99,
+            "save": 1,
+            "unitPrice": 0.8119
+          }
+        ]
+      }
+    },
+    {
+      "sku": "22181800000",
+      "name": "Meatloaf",
+      "department": "kitchen",
+      "series": {
+        "blue-oaks": [
+          {
+            "week": "2026-10-07",
+            "price": 13.99,
+            "unitPrice": 0.8744
+          }
+        ],
+        "granite-bay": [
+          {
+            "week": "2026-10-07",
+            "price": 13.99,
+            "unitPrice": 0.8744
+          }
+        ],
+        "rocklin": [
+          {
+            "week": "2026-10-07",
+            "price": 13.99,
+            "unitPrice": 0.8744
+          }
+        ]
+      }
+    },
+    {
+      "sku": "74597894223",
+      "name": "6\" Euphorbia in Ceramic",
+      "department": "floral",
+      "series": {
+        "blue-oaks": [
+          {
+            "week": "2026-10-07",
+            "price": 22,
+            "save": 3
+          }
+        ],
+        "granite-bay": [
+          {
+            "week": "2026-10-07",
+            "price": 22,
+            "save": 3
+          }
+        ],
+        "rocklin": [
+          {
+            "week": "2026-10-07",
+            "price": 22,
+            "save": 3
+          }
+        ]
+      }
+    },
+    {
+      "sku": "87919900057",
+      "name": "Octoberfest Bouquet",
+      "department": "floral",
+      "series": {
+        "blue-oaks": [
+          {
+            "week": "2026-10-07",
+            "price": 17,
+            "save": 1
+          }
+        ],
+        "granite-bay": [
+          {
+            "week": "2026-10-07",
+            "price": 17,
+            "save": 1
+          }
+        ],
+        "rocklin": [
+          {
+            "week": "2026-10-07",
+            "price": 17,
+            "save": 1
+          }
+        ]
+      }
     }
   ],
   "crossLocation": [
     {
-      "sku": "20088400000",
-      "name": "Organic Boneless & Skinless Chicken Breasts",
+      "sku": "20010500000",
+      "name": "Pure Air‑Chilled Whole Chickens",
       "department": "meat",
       "prices": {
-        "blue-oaks": 8.99,
-        "granite-bay": 8.99,
-        "rocklin": 8.99
+        "blue-oaks": 2.29,
+        "granite-bay": 2.29,
+        "rocklin": 2.29
       },
       "cheapestLocation": "blue-oaks",
       "spread": 0
     },
     {
-      "sku": "20911500000",
-      "name": "Peeled & Deveined Prawns",
+      "sku": "20062200000",
+      "name": "Organic Bone‑In Chicken Thighs",
       "department": "meat",
-      "prices": {
-        "blue-oaks": 10.99,
-        "granite-bay": 10.99,
-        "rocklin": 10.99
-      },
-      "cheapestLocation": "blue-oaks",
-      "spread": 0
-    },
-    {
-      "sku": "3",
-      "name": "Pasta Prima Ravioli or Tortellini",
-      "department": "deli",
       "prices": {
         "blue-oaks": 5.99,
         "granite-bay": 5.99,
@@ -19832,9 +21061,21 @@
       "spread": 0
     },
     {
-      "sku": "20017700000",
-      "name": "Boneless & Skinless Chicken Breasts, Value Pack",
+      "sku": "20245500000",
+      "name": "Grass‑Fed Beef Top Sirloin Picanha Steaks",
       "department": "meat",
+      "prices": {
+        "blue-oaks": 17.99,
+        "granite-bay": 17.99,
+        "rocklin": 17.99
+      },
+      "cheapestLocation": "blue-oaks",
+      "spread": 0
+    },
+    {
+      "sku": "3",
+      "name": "Mandarin Tangerines",
+      "department": "produce",
       "prices": {
         "blue-oaks": 6.99,
         "granite-bay": 6.99,
@@ -19844,20 +21085,8 @@
       "spread": 0
     },
     {
-      "sku": "22110500000",
-      "name": "Cracked Pepper Smoked Turkey Breast",
-      "department": "kitchen",
-      "prices": {
-        "blue-oaks": 15.99,
-        "granite-bay": 15.99,
-        "rocklin": 15.99
-      },
-      "cheapestLocation": "blue-oaks",
-      "spread": 0
-    },
-    {
-      "sku": "4022",
-      "name": "Red or Green Seedless Grapes",
+      "sku": "4409",
+      "name": "Bartlett Pears",
       "department": "produce",
       "prices": {
         "blue-oaks": 1.99,
@@ -19868,13 +21097,85 @@
       "spread": 0
     },
     {
-      "sku": "7274506369",
-      "name": "Ground Chicken",
+      "sku": "2724145421",
+      "name": "Gulf Prawns",
+      "department": "meat",
+      "prices": {
+        "blue-oaks": 26.99,
+        "granite-bay": 26.99,
+        "rocklin": 26.99
+      },
+      "cheapestLocation": "blue-oaks",
+      "spread": 0
+    },
+    {
+      "sku": "20070500000",
+      "name": "Organic Whole Chickens",
+      "department": "meat",
+      "prices": {
+        "blue-oaks": 3.99,
+        "granite-bay": 3.99,
+        "rocklin": 3.99
+      },
+      "cheapestLocation": "blue-oaks",
+      "spread": 0
+    },
+    {
+      "sku": "20909300000",
+      "name": "Gulf Prawns",
+      "department": "meat",
+      "prices": {
+        "blue-oaks": 12.99,
+        "granite-bay": 12.99,
+        "rocklin": 12.99
+      },
+      "cheapestLocation": "blue-oaks",
+      "spread": 0
+    },
+    {
+      "sku": "20062000000",
+      "name": "Organic Chicken Party Wings",
       "department": "meat",
       "prices": {
         "blue-oaks": 4.99,
         "granite-bay": 4.99,
         "rocklin": 4.99
+      },
+      "cheapestLocation": "blue-oaks",
+      "spread": 0
+    },
+    {
+      "sku": "20142900000",
+      "name": "Organic Boneless & Skinless Chicken Breasts",
+      "department": "meat",
+      "prices": {
+        "blue-oaks": 10.99,
+        "granite-bay": 10.99,
+        "rocklin": 10.99
+      },
+      "cheapestLocation": "blue-oaks",
+      "spread": 0
+    },
+    {
+      "sku": "9041-567",
+      "name": "New Zealand King Salmon Fillets",
+      "department": "meat",
+      "prices": {
+        "blue-oaks": 29.99,
+        "granite-bay": 29.99,
+        "rocklin": 29.99
+      },
+      "cheapestLocation": "blue-oaks",
+      "spread": 0
+    },
+    {
+      "sku": "8800401154",
+      "name": "Taaka Vodka",
+      "department": "adult-beverages",
+      "prices": {
+        "blue-oaks": 5.99,
+        "granite-bay": 5.99,
+        "rocklin": 5.99
       },
       "cheapestLocation": "blue-oaks",
       "spread": 0
@@ -19928,217 +21229,85 @@
       "spread": 0
     },
     {
-      "sku": "88112245125",
-      "name": "Tunacado Sushi Roll",
+      "sku": "20503600000",
+      "name": "True Cod Fillets",
+      "department": "meat",
+      "prices": {
+        "blue-oaks": 15.99,
+        "granite-bay": 15.99,
+        "rocklin": 15.99
+      },
+      "cheapestLocation": "blue-oaks",
+      "spread": 0
+    },
+    {
+      "sku": "1557",
+      "name": "Thai Iced Tea",
+      "department": "coffee-bar",
+      "prices": {
+        "blue-oaks": 4.5,
+        "granite-bay": 4.5,
+        "rocklin": 4.5
+      },
+      "cheapestLocation": "blue-oaks",
+      "spread": 0
+    },
+    {
+      "sku": "22110600000",
+      "name": "The Fryer’s Turkey Breast",
       "department": "kitchen",
       "prices": {
-        "blue-oaks": 8.95,
-        "granite-bay": 8.95,
-        "rocklin": 8.95
+        "blue-oaks": 15.99,
+        "granite-bay": 15.99,
+        "rocklin": 15.99
       },
       "cheapestLocation": "blue-oaks",
       "spread": 0
     },
     {
-      "sku": "88112245126",
-      "name": "Tunacado Sushi Roll with Brown Rice",
-      "department": "kitchen",
-      "prices": {
-        "blue-oaks": 8.95,
-        "granite-bay": 8.95,
-        "rocklin": 8.95
-      },
-      "cheapestLocation": "blue-oaks",
-      "spread": 0
-    },
-    {
-      "sku": "20089100000",
-      "name": "Organic Boneless & Skinless Chicken Breasts",
+      "sku": "20220300000",
+      "name": "Beef Boneless New York Steaks",
       "department": "meat",
       "prices": {
-        "blue-oaks": 8.99,
-        "granite-bay": 8.99,
-        "rocklin": 8.99
+        "blue-oaks": 24.99,
+        "granite-bay": 24.99,
+        "rocklin": 24.99
       },
       "cheapestLocation": "blue-oaks",
       "spread": 0
     },
     {
-      "sku": "2200-750",
-      "name": "Beef Tomahawk Ribeye Steaks",
-      "department": "meat",
-      "prices": {
-        "blue-oaks": 28.99,
-        "granite-bay": 28.99,
-        "rocklin": 28.99
-      },
-      "cheapestLocation": "blue-oaks",
-      "spread": 0
-    },
-    {
-      "sku": "20221000000",
-      "name": "Beef Short Ribs",
-      "department": "meat",
-      "prices": {
-        "blue-oaks": 13.99,
-        "granite-bay": 13.99,
-        "rocklin": 13.99
-      },
-      "cheapestLocation": "blue-oaks",
-      "spread": 0
-    },
-    {
-      "sku": "70733051155",
-      "name": "Organic Dark Ground Turkey",
-      "department": "meat",
-      "prices": {
-        "blue-oaks": 9.99,
-        "granite-bay": 9.99,
-        "rocklin": 9.99
-      },
-      "cheapestLocation": "blue-oaks",
-      "spread": 0
-    },
-    {
-      "sku": "81836002617",
-      "name": "Ground Beef",
-      "department": "meat",
-      "prices": {
-        "blue-oaks": 11.99,
-        "granite-bay": 11.99,
-        "rocklin": 11.99
-      },
-      "cheapestLocation": "blue-oaks",
-      "spread": 0
-    },
-    {
-      "sku": "20164600000",
-      "name": "USDA Choice Ground Beef",
-      "department": "meat",
-      "prices": {
-        "blue-oaks": 8.49,
-        "granite-bay": 8.49,
-        "rocklin": 8.49
-      },
-      "cheapestLocation": "blue-oaks",
-      "spread": 0
-    },
-    {
-      "sku": "20903300000",
-      "name": "Petrale Sole Fillets",
-      "department": "meat",
-      "prices": {
-        "blue-oaks": 12.99,
-        "granite-bay": 12.99,
-        "rocklin": 12.99
-      },
-      "cheapestLocation": "blue-oaks",
-      "spread": 0
-    },
-    {
-      "sku": "7",
-      "name": "7-Up Singles",
-      "department": "staples",
-      "prices": {
-        "blue-oaks": 1,
-        "granite-bay": 1,
-        "rocklin": 1
-      },
-      "cheapestLocation": "blue-oaks",
-      "spread": 0
-    },
-    {
-      "sku": "94225",
-      "name": "Organic Avocados",
+      "sku": "73873",
+      "name": "Strawberries",
       "department": "produce",
       "prices": {
-        "blue-oaks": 1.99,
-        "granite-bay": 1.99,
-        "rocklin": 1.99
+        "blue-oaks": 3.99,
+        "granite-bay": 3.99,
+        "rocklin": 3.99
       },
       "cheapestLocation": "blue-oaks",
       "spread": 0
     },
     {
-      "sku": "94409",
-      "name": "Organic Bartlett Pears",
-      "department": "produce",
-      "prices": {
-        "blue-oaks": 2.49,
-        "granite-bay": 2.49,
-        "rocklin": 2.49
-      },
-      "cheapestLocation": "blue-oaks",
-      "spread": 0
-    },
-    {
-      "sku": "70733080155",
-      "name": "Ground Turkey",
-      "department": "meat",
-      "prices": {
-        "blue-oaks": 6.99,
-        "granite-bay": 6.99,
-        "rocklin": 6.99
-      },
-      "cheapestLocation": "blue-oaks",
-      "spread": 0
-    },
-    {
-      "sku": "93134",
-      "name": "Organic Winter Squash",
-      "department": "produce",
-      "prices": {
-        "blue-oaks": 1.49,
-        "granite-bay": 1.49,
-        "rocklin": 1.49
-      },
-      "cheapestLocation": "blue-oaks",
-      "spread": 0
-    },
-    {
-      "sku": "1299-516",
-      "name": "Premium Beef New York Steaks",
-      "department": "meat",
-      "prices": {
-        "blue-oaks": 19.99,
-        "granite-bay": 19.99,
-        "rocklin": 19.99
-      },
-      "cheapestLocation": "blue-oaks",
-      "spread": 0
-    },
-    {
-      "sku": "22119800000",
-      "name": "Herb Roasted Chicken Breast",
+      "sku": "88112245022",
+      "name": "Firecracker Sushi Roll",
       "department": "kitchen",
       "prices": {
-        "blue-oaks": 18.99,
-        "granite-bay": 18.99,
-        "rocklin": 18.99
+        "blue-oaks": 12.95,
+        "granite-bay": 12.95,
+        "rocklin": 12.95
       },
       "cheapestLocation": "blue-oaks",
       "spread": 0
     },
     {
-      "sku": "22134800000",
-      "name": "Cream Havarti with Jalapeño",
-      "department": "kitchen",
+      "sku": "93603",
+      "name": "Organic SweeTango Apples",
+      "department": "produce",
       "prices": {
-        "blue-oaks": 12.49,
-        "granite-bay": 12.49,
-        "rocklin": 12.49
-      },
-      "cheapestLocation": "blue-oaks",
-      "spread": 0
-    },
-    {
-      "sku": "20111400000",
-      "name": "Premium Beef Chuck Roasts",
-      "department": "meat",
-      "prices": {
-        "blue-oaks": 10.99,
-        "granite-bay": 10.99,
-        "rocklin": 10.99
+        "blue-oaks": 2.99,
+        "granite-bay": 2.99,
+        "rocklin": 2.99
       },
       "cheapestLocation": "blue-oaks",
       "spread": 0
@@ -20156,42 +21325,6 @@
       "spread": 0
     },
     {
-      "sku": "66919120456",
-      "name": "Zhou Creatine Chews",
-      "department": "healthy-living",
-      "prices": {
-        "blue-oaks": 21.99,
-        "granite-bay": 21.99,
-        "rocklin": 21.99
-      },
-      "cheapestLocation": "blue-oaks",
-      "spread": 0
-    },
-    {
-      "sku": "74265112310",
-      "name": "Ferrari-Carano Fumé Blanc",
-      "department": "adult-beverages",
-      "prices": {
-        "blue-oaks": 9.99,
-        "granite-bay": 9.99,
-        "rocklin": 9.99
-      },
-      "cheapestLocation": "blue-oaks",
-      "spread": 0
-    },
-    {
-      "sku": "81352601083",
-      "name": "Red Seedless Holiday Grapes",
-      "department": "produce",
-      "prices": {
-        "blue-oaks": 5.99,
-        "granite-bay": 5.99,
-        "rocklin": 5.99
-      },
-      "cheapestLocation": "blue-oaks",
-      "spread": 0
-    },
-    {
       "sku": "81907201062",
       "name": "Organic Berry Red Kiwis",
       "department": "produce",
@@ -20199,174 +21332,6 @@
         "blue-oaks": 5.99,
         "granite-bay": 5.99,
         "rocklin": 5.99
-      },
-      "cheapestLocation": "blue-oaks",
-      "spread": 0
-    },
-    {
-      "sku": "76211",
-      "name": "Organic Fuji Apples",
-      "department": "produce",
-      "prices": {
-        "blue-oaks": 2.99,
-        "granite-bay": 2.99,
-        "rocklin": 2.99
-      },
-      "cheapestLocation": "blue-oaks",
-      "spread": 0
-    },
-    {
-      "sku": "20240000000",
-      "name": "Grass-Fed Beef Boneless Chuck Roasts",
-      "department": "meat",
-      "prices": {
-        "blue-oaks": 12.99,
-        "granite-bay": 12.99,
-        "rocklin": 12.99
-      },
-      "cheapestLocation": "blue-oaks",
-      "spread": 0
-    },
-    {
-      "sku": "20906300000",
-      "name": "Steelhead Trout Fillets",
-      "department": "meat",
-      "prices": {
-        "blue-oaks": 13.99,
-        "granite-bay": 13.99,
-        "rocklin": 13.99
-      },
-      "cheapestLocation": "blue-oaks",
-      "spread": 0
-    },
-    {
-      "sku": "20087900000",
-      "name": "Organic Whole Chickens",
-      "department": "meat",
-      "prices": {
-        "blue-oaks": 3.99,
-        "granite-bay": 3.99,
-        "rocklin": 3.99
-      },
-      "cheapestLocation": "blue-oaks",
-      "spread": 0
-    },
-    {
-      "sku": "20534900000",
-      "name": "Elk Sirloin",
-      "department": "meat",
-      "prices": {
-        "blue-oaks": 17.99,
-        "granite-bay": 17.99,
-        "rocklin": 17.99
-      },
-      "cheapestLocation": "blue-oaks",
-      "spread": 0
-    },
-    {
-      "sku": "4408253341",
-      "name": "Once Again Organic Creamy Cashew Butter",
-      "department": "staples",
-      "prices": {
-        "blue-oaks": 8.99,
-        "granite-bay": 8.99,
-        "rocklin": 8.99
-      },
-      "cheapestLocation": "blue-oaks",
-      "spread": 0
-    },
-    {
-      "sku": "63403900076",
-      "name": "O Olive Oil California Premium Extra Virgin Olive",
-      "department": "staples",
-      "prices": {
-        "blue-oaks": 9.99,
-        "granite-bay": 9.99,
-        "rocklin": 9.99
-      },
-      "cheapestLocation": "blue-oaks",
-      "spread": 0
-    },
-    {
-      "sku": "4900007546",
-      "name": "Coca-Cola 4-Packs",
-      "department": "staples",
-      "prices": {
-        "blue-oaks": 7.99,
-        "granite-bay": 7.99,
-        "rocklin": 7.99
-      },
-      "cheapestLocation": "blue-oaks",
-      "spread": 0
-    },
-    {
-      "sku": "8800401012",
-      "name": "Taaka Vodka",
-      "department": "adult-beverages",
-      "prices": {
-        "blue-oaks": 9.99,
-        "granite-bay": 9.99,
-        "rocklin": 9.99
-      },
-      "cheapestLocation": "blue-oaks",
-      "spread": 0
-    },
-    {
-      "sku": "8912110852",
-      "name": "J. Lohr Wildflower Valdiguié",
-      "department": "adult-beverages",
-      "prices": {
-        "blue-oaks": 9.99,
-        "granite-bay": 9.99,
-        "rocklin": 9.99
-      },
-      "cheapestLocation": "blue-oaks",
-      "spread": 0
-    },
-    {
-      "sku": "8981900347",
-      "name": "Beringer Knights Valley Cabernet Sauvignon",
-      "department": "adult-beverages",
-      "prices": {
-        "blue-oaks": 27.99,
-        "granite-bay": 27.99,
-        "rocklin": 27.99
-      },
-      "cheapestLocation": "blue-oaks",
-      "spread": 0
-    },
-    {
-      "sku": "72105900150",
-      "name": "Appleton Estate Signature Jamaica Rum",
-      "department": "adult-beverages",
-      "prices": {
-        "blue-oaks": 19.99,
-        "granite-bay": 19.99,
-        "rocklin": 19.99
-      },
-      "cheapestLocation": "blue-oaks",
-      "spread": 0
-    },
-    {
-      "sku": "72462411609",
-      "name": "J Vineyards Pinot Gris",
-      "department": "adult-beverages",
-      "prices": {
-        "blue-oaks": 13.99,
-        "granite-bay": 13.99,
-        "rocklin": 13.99
-      },
-      "cheapestLocation": "blue-oaks",
-      "spread": 0
-    },
-    {
-      "sku": "843700330443",
-      "name": "Miquel Pons Cava Brut",
-      "department": "adult-beverages",
-      "prices": {
-        "blue-oaks": 9.99,
-        "granite-bay": 9.99,
-        "rocklin": 9.99
       },
       "cheapestLocation": "blue-oaks",
       "spread": 0
@@ -20384,21 +21349,9 @@
       "spread": 0
     },
     {
-      "sku": "2636",
-      "name": "Pump it Up Smoothie",
-      "department": "coffee-bar",
-      "prices": {
-        "blue-oaks": 9.25,
-        "granite-bay": 9.25,
-        "rocklin": 9.25
-      },
-      "cheapestLocation": "blue-oaks",
-      "spread": 0
-    },
-    {
-      "sku": "22215500000",
-      "name": "Winter Vegetable Hash",
-      "department": "kitchen",
+      "sku": "20180700000",
+      "name": "USDA Prime Beef Top Sirloin",
+      "department": "meat",
       "prices": {
         "blue-oaks": 12.99,
         "granite-bay": 12.99,
@@ -20408,21 +21361,21 @@
       "spread": 0
     },
     {
-      "sku": "22232600000",
-      "name": "Orzo with Prosciutto & Basil",
-      "department": "kitchen",
+      "sku": "1722476012",
+      "name": "Conundrum Red Blend Wine",
+      "department": "adult-beverages",
       "prices": {
-        "blue-oaks": 12.99,
-        "granite-bay": 12.99,
-        "rocklin": 12.99
+        "blue-oaks": 14.99,
+        "granite-bay": 14.99,
+        "rocklin": 14.99
       },
       "cheapestLocation": "blue-oaks",
       "spread": 0
     },
     {
-      "sku": "22204700000",
-      "name": "Pumpkin Spice Dip",
-      "department": "kitchen",
+      "sku": "5783602117",
+      "name": "Wild Wonders Cherry Tomatoes",
+      "department": "produce",
       "prices": {
         "blue-oaks": 5.99,
         "granite-bay": 5.99,
@@ -20432,45 +21385,141 @@
       "spread": 0
     },
     {
-      "sku": "22157500000",
-      "name": "Crab Cakes",
-      "department": "kitchen",
+      "sku": "94816",
+      "name": "Organic Purple, White, Orange, Red or Japanese Sweet Potatoes",
+      "department": "produce",
       "prices": {
-        "blue-oaks": 6.99,
-        "granite-bay": 6.99,
-        "rocklin": 6.99
+        "blue-oaks": 2.49,
+        "granite-bay": 2.49,
+        "rocklin": 2.49
       },
       "cheapestLocation": "blue-oaks",
       "spread": 0
     },
     {
-      "sku": "8500664273",
-      "name": "Sun Splash Bouquet",
-      "department": "floral",
+      "sku": "4053",
+      "name": "Lemons",
+      "department": "produce",
       "prices": {
-        "blue-oaks": 11,
-        "granite-bay": 11,
-        "rocklin": 11
+        "blue-oaks": 0.5,
+        "granite-bay": 0.5,
+        "rocklin": 0.5
       },
       "cheapestLocation": "blue-oaks",
       "spread": 0
     },
     {
-      "sku": "77970401629",
-      "name": "2\" Jar With Tropical And Wood Charm",
-      "department": "floral",
+      "sku": "20170200000",
+      "name": "Wagyu Chuck Roasts",
+      "department": "meat",
       "prices": {
-        "blue-oaks": 8,
-        "granite-bay": 8,
-        "rocklin": 8
+        "blue-oaks": 13.99,
+        "granite-bay": 13.99,
+        "rocklin": 13.99
       },
       "cheapestLocation": "blue-oaks",
       "spread": 0
     },
     {
-      "sku": "3077215778",
-      "name": "Cascade Platinum Plus Dishwasher Pods",
-      "department": "general-merchandise",
+      "sku": "81836002012",
+      "name": "Grass-Fed Beef Stew Meat",
+      "department": "meat",
+      "prices": {
+        "blue-oaks": 11.99,
+        "granite-bay": 11.99,
+        "rocklin": 11.99
+      },
+      "cheapestLocation": "blue-oaks",
+      "spread": 0
+    },
+    {
+      "sku": "1356200052",
+      "name": "Annie’s Graham Crackers",
+      "department": "staples",
+      "prices": {
+        "blue-oaks": 3.99,
+        "granite-bay": 3.99,
+        "rocklin": 3.99
+      },
+      "cheapestLocation": "blue-oaks",
+      "spread": 0
+    },
+    {
+      "sku": "3915301002",
+      "name": "Colavita Extra Virgin Olive Oil",
+      "department": "staples",
+      "prices": {
+        "blue-oaks": 22.99,
+        "granite-bay": 22.99,
+        "rocklin": 22.99
+      },
+      "cheapestLocation": "blue-oaks",
+      "spread": 0
+    },
+    {
+      "sku": "4010000067",
+      "name": "Fleischmann’s Simply Homemade Cornbread Baking Mix",
+      "department": "staples",
+      "prices": {
+        "blue-oaks": 2.5,
+        "granite-bay": 2.5,
+        "rocklin": 2.5
+      },
+      "cheapestLocation": "blue-oaks",
+      "spread": 0
+    },
+    {
+      "sku": "85921600300",
+      "name": "Cup4Cup Gluten-Free Flour",
+      "department": "staples",
+      "prices": {
+        "blue-oaks": 13.99,
+        "granite-bay": 13.99,
+        "rocklin": 13.99
+      },
+      "cheapestLocation": "blue-oaks",
+      "spread": 0
+    },
+    {
+      "sku": "18",
+      "name": "18 Chestnuts Soups",
+      "department": "staples",
+      "prices": {
+        "blue-oaks": 5.99,
+        "granite-bay": 5.99,
+        "rocklin": 5.99
+      },
+      "cheapestLocation": "blue-oaks",
+      "spread": 0
+    },
+    {
+      "sku": "8500001163",
+      "name": "Louis M. Martini Sonoma County Cabernet Sauvignon",
+      "department": "adult-beverages",
+      "prices": {
+        "blue-oaks": 16.99,
+        "granite-bay": 16.99,
+        "rocklin": 16.99
+      },
+      "cheapestLocation": "blue-oaks",
+      "spread": 0
+    },
+    {
+      "sku": "8807618695",
+      "name": "Astral Tequila Blanco",
+      "department": "adult-beverages",
+      "prices": {
+        "blue-oaks": 17.99,
+        "granite-bay": 17.99,
+        "rocklin": 17.99
+      },
+      "cheapestLocation": "blue-oaks",
+      "spread": 0
+    },
+    {
+      "sku": "72109419905",
+      "name": "Goslings Black Seal Bermuda Black Rum",
+      "department": "adult-beverages",
       "prices": {
         "blue-oaks": 19.99,
         "granite-bay": 19.99,
@@ -20480,13 +21529,157 @@
       "spread": 0
     },
     {
-      "sku": "3077216014",
-      "name": "Bounty Select‑A‑Size Paper Towels, 8 Triple Rolls",
-      "department": "general-merchandise",
+      "sku": "74265115210",
+      "name": "Ferrari‑Carano Pinot Grigio",
+      "department": "adult-beverages",
       "prices": {
-        "blue-oaks": 22.99,
-        "granite-bay": 22.99,
-        "rocklin": 22.99
+        "blue-oaks": 12.99,
+        "granite-bay": 12.99,
+        "rocklin": 12.99
+      },
+      "cheapestLocation": "blue-oaks",
+      "spread": 0
+    },
+    {
+      "sku": "74459814778",
+      "name": "Schug Sonoma Coast Pinot Noir",
+      "department": "adult-beverages",
+      "prices": {
+        "blue-oaks": 16.99,
+        "granite-bay": 16.99,
+        "rocklin": 16.99
+      },
+      "cheapestLocation": "blue-oaks",
+      "spread": 0
+    },
+    {
+      "sku": "81153801956",
+      "name": "Proper No. Twelve Irish Whiskey",
+      "department": "adult-beverages",
+      "prices": {
+        "blue-oaks": 17.99,
+        "granite-bay": 17.99,
+        "rocklin": 17.99
+      },
+      "cheapestLocation": "blue-oaks",
+      "spread": 0
+    },
+    {
+      "sku": "5",
+      "name": "Caramel Apple Cake",
+      "department": "bakery",
+      "prices": {
+        "blue-oaks": 24.99,
+        "granite-bay": 24.99,
+        "rocklin": 24.99
+      },
+      "cheapestLocation": "blue-oaks",
+      "spread": 0
+    },
+    {
+      "sku": "88112245063",
+      "name": "Crab Stick Philly Roll",
+      "department": "kitchen",
+      "prices": {
+        "blue-oaks": 8.75,
+        "granite-bay": 8.75,
+        "rocklin": 8.75
+      },
+      "cheapestLocation": "blue-oaks",
+      "spread": 0
+    },
+    {
+      "sku": "0022356700000",
+      "name": "The NOLA Sandwich",
+      "department": "kitchen",
+      "prices": {
+        "blue-oaks": 11.99,
+        "granite-bay": 11.99,
+        "rocklin": 11.99
+      },
+      "cheapestLocation": "blue-oaks",
+      "spread": 0
+    },
+    {
+      "sku": "0022356800000",
+      "name": "The Rio Grande Sandwich",
+      "department": "kitchen",
+      "prices": {
+        "blue-oaks": 13.99,
+        "granite-bay": 13.99,
+        "rocklin": 13.99
+      },
+      "cheapestLocation": "blue-oaks",
+      "spread": 0
+    },
+    {
+      "sku": "22119400000",
+      "name": "Uncured Pastrami",
+      "department": "kitchen",
+      "prices": {
+        "blue-oaks": 20.99,
+        "granite-bay": 20.99,
+        "rocklin": 20.99
+      },
+      "cheapestLocation": "blue-oaks",
+      "spread": 0
+    },
+    {
+      "sku": "22155100000",
+      "name": "Caramelized Onion Jack Cheese",
+      "department": "kitchen",
+      "prices": {
+        "blue-oaks": 12.49,
+        "granite-bay": 12.49,
+        "rocklin": 12.49
+      },
+      "cheapestLocation": "blue-oaks",
+      "spread": 0
+    },
+    {
+      "sku": "22124700000",
+      "name": "Herbed Butternut Squash",
+      "department": "kitchen",
+      "prices": {
+        "blue-oaks": 12.99,
+        "granite-bay": 12.99,
+        "rocklin": 12.99
+      },
+      "cheapestLocation": "blue-oaks",
+      "spread": 0
+    },
+    {
+      "sku": "22181800000",
+      "name": "Meatloaf",
+      "department": "kitchen",
+      "prices": {
+        "blue-oaks": 13.99,
+        "granite-bay": 13.99,
+        "rocklin": 13.99
+      },
+      "cheapestLocation": "blue-oaks",
+      "spread": 0
+    },
+    {
+      "sku": "74597894223",
+      "name": "6\" Euphorbia in Ceramic",
+      "department": "floral",
+      "prices": {
+        "blue-oaks": 22,
+        "granite-bay": 22,
+        "rocklin": 22
+      },
+      "cheapestLocation": "blue-oaks",
+      "spread": 0
+    },
+    {
+      "sku": "87919900057",
+      "name": "Octoberfest Bouquet",
+      "department": "floral",
+      "prices": {
+        "blue-oaks": 17,
+        "granite-bay": 17,
+        "rocklin": 17
       },
       "cheapestLocation": "blue-oaks",
       "spread": 0
@@ -20495,15 +21688,66 @@
   "weekOverWeek": [
     {
       "location": "blue-oaks",
-      "week": "2026-09-30",
-      "prevWeek": "2026-09-23",
+      "week": "2026-10-07",
+      "prevWeek": "2026-09-30",
       "new": [
+        "20180700000",
+        "1722476012",
+        "5783602117",
+        "94816",
+        "4053",
+        "20170200000",
+        "81836002012",
+        "1356200052",
+        "3915301002",
+        "4010000067",
+        "85921600300",
+        "18",
+        "8500001163",
+        "8807618695",
+        "72109419905",
+        "74265115210",
+        "74459814778",
+        "81153801956",
+        "5",
+        "88112245063",
+        "0022356700000",
+        "0022356800000",
+        "22119400000",
+        "22155100000",
+        "22124700000",
+        "22181800000",
+        "74597894223",
+        "87919900057"
+      ],
+      "dropped": [
+        "20088400000",
+        "20911500000",
+        "20017700000",
+        "22110500000",
+        "4022",
+        "7274506369",
+        "88112245125",
+        "88112245126",
+        "20089100000",
+        "2200-750",
+        "20221000000",
+        "70733051155",
+        "81836002617",
+        "20164600000",
+        "20903300000",
+        "7",
+        "94225",
+        "94409",
+        "70733080155",
+        "93134",
+        "1299-516",
+        "22119800000",
+        "22134800000",
         "20111400000",
-        "23342100000",
         "66919120456",
         "74265112310",
         "81352601083",
-        "81907201062",
         "76211",
         "20240000000",
         "20906300000",
@@ -20518,7 +21762,6 @@
         "72105900150",
         "72462411609",
         "843700330443",
-        "23336100000",
         "2636",
         "22215500000",
         "22232600000",
@@ -20529,107 +21772,99 @@
         "3077215778",
         "3077216014"
       ],
-      "dropped": [
-        "94022",
-        "20160900000",
-        "20245500000",
-        "81836002618",
-        "6",
-        "20061800000",
-        "20336900000",
-        "20338800000",
-        "85273500302",
-        "20016500000",
-        "20062300000",
-        "1560",
-        "88112245104",
-        "88112245105",
-        "20245000000",
-        "20908800000",
-        "3110",
-        "73873",
-        "81836002813",
-        "23333500000",
-        "3440",
-        "4381",
-        "93277",
-        "94759",
-        "6110410327",
-        "19589341177",
-        "19764491719",
-        "23333600000",
-        "22168800000",
-        "73735",
-        "4131",
-        "94079",
-        "5355-576",
-        "20907100000",
-        "20900000000",
-        "3997801103",
-        "63256500010",
-        "49",
-        "7225009251",
-        "85005283226",
-        "1623600002",
-        "5149750029",
-        "8048028002",
-        "63298720020",
-        "69845010546",
-        "85000550906",
-        "85000550909",
-        "85065100511",
-        "89622400015",
-        "24119900000",
-        "22162400000",
-        "22167400000",
-        "22980600000",
-        "1396412743",
-        "3077222883"
-      ],
       "returning": [
-        "20088400000",
-        "20911500000",
+        "20010500000",
+        "20062200000",
+        "20245500000",
+        "4409",
+        "2724145421",
+        "20070500000",
+        "20909300000",
+        "20062000000",
+        "20142900000",
+        "9041-567",
+        "8800401154",
+        "20503600000",
+        "1557",
+        "22110600000",
+        "20220300000",
+        "73873",
+        "88112245022",
+        "93603"
+      ],
+      "continued": [
         "3",
-        "20017700000",
-        "22110500000",
-        "4022",
-        "7274506369",
         "3114200088",
         "3114200126",
         "3114200152",
         "3114200103",
-        "88112245125",
-        "88112245126",
-        "20089100000",
-        "2200-750",
-        "20221000000",
-        "70733051155",
-        "81836002617",
-        "20164600000",
-        "20903300000",
-        "7",
-        "94409",
-        "70733080155",
-        "93134",
-        "1299-516"
-      ],
-      "continued": [
-        "94225",
-        "22119800000",
-        "22134800000"
+        "23342100000",
+        "81907201062",
+        "23336100000"
       ]
     },
     {
       "location": "granite-bay",
-      "week": "2026-09-30",
-      "prevWeek": "2026-09-23",
+      "week": "2026-10-07",
+      "prevWeek": "2026-09-30",
       "new": [
+        "20180700000",
+        "1722476012",
+        "5783602117",
+        "94816",
+        "4053",
+        "20170200000",
+        "81836002012",
+        "1356200052",
+        "3915301002",
+        "4010000067",
+        "85921600300",
+        "18",
+        "8500001163",
+        "8807618695",
+        "72109419905",
+        "74265115210",
+        "74459814778",
+        "81153801956",
+        "5",
+        "88112245063",
+        "0022356700000",
+        "0022356800000",
+        "22119400000",
+        "22155100000",
+        "22124700000",
+        "22181800000",
+        "74597894223",
+        "87919900057"
+      ],
+      "dropped": [
+        "20088400000",
+        "20911500000",
+        "20017700000",
+        "22110500000",
+        "4022",
+        "7274506369",
+        "88112245125",
+        "88112245126",
+        "20089100000",
+        "2200-750",
+        "20221000000",
+        "70733051155",
+        "81836002617",
+        "20164600000",
+        "20903300000",
+        "7",
+        "94225",
+        "94409",
+        "70733080155",
+        "93134",
+        "1299-516",
+        "22119800000",
+        "22134800000",
         "20111400000",
-        "23342100000",
         "66919120456",
         "74265112310",
         "81352601083",
-        "81907201062",
         "76211",
         "20240000000",
         "20906300000",
@@ -20644,7 +21879,6 @@
         "72105900150",
         "72462411609",
         "843700330443",
-        "23336100000",
         "2636",
         "22215500000",
         "22232600000",
@@ -20655,107 +21889,99 @@
         "3077215778",
         "3077216014"
       ],
-      "dropped": [
-        "94022",
-        "20160900000",
-        "20245500000",
-        "81836002618",
-        "6",
-        "20061800000",
-        "20336900000",
-        "20338800000",
-        "85273500302",
-        "20016500000",
-        "20062300000",
-        "1560",
-        "88112245104",
-        "88112245105",
-        "20245000000",
-        "20908800000",
-        "3110",
-        "73873",
-        "81836002813",
-        "23333500000",
-        "3440",
-        "4381",
-        "93277",
-        "94759",
-        "6110410327",
-        "19589341177",
-        "19764491719",
-        "23333600000",
-        "22168800000",
-        "73735",
-        "4131",
-        "94079",
-        "5355-576",
-        "20907100000",
-        "20900000000",
-        "3997801103",
-        "63256500010",
-        "49",
-        "7225009251",
-        "85005283226",
-        "1623600002",
-        "5149750029",
-        "8048028002",
-        "63298720020",
-        "69845010546",
-        "85000550906",
-        "85000550909",
-        "85065100511",
-        "89622400015",
-        "24119900000",
-        "22162400000",
-        "22167400000",
-        "22980600000",
-        "1396412743",
-        "3077222883"
-      ],
       "returning": [
-        "20088400000",
-        "20911500000",
+        "20010500000",
+        "20062200000",
+        "20245500000",
+        "4409",
+        "2724145421",
+        "20070500000",
+        "20909300000",
+        "20062000000",
+        "20142900000",
+        "9041-567",
+        "8800401154",
+        "20503600000",
+        "1557",
+        "22110600000",
+        "20220300000",
+        "73873",
+        "88112245022",
+        "93603"
+      ],
+      "continued": [
         "3",
-        "20017700000",
-        "22110500000",
-        "4022",
-        "7274506369",
         "3114200088",
         "3114200126",
         "3114200152",
         "3114200103",
-        "88112245125",
-        "88112245126",
-        "20089100000",
-        "2200-750",
-        "20221000000",
-        "70733051155",
-        "81836002617",
-        "20164600000",
-        "20903300000",
-        "7",
-        "94409",
-        "70733080155",
-        "93134",
-        "1299-516"
-      ],
-      "continued": [
-        "94225",
-        "22119800000",
-        "22134800000"
+        "23342100000",
+        "81907201062",
+        "23336100000"
       ]
     },
     {
       "location": "rocklin",
-      "week": "2026-09-30",
-      "prevWeek": "2026-09-23",
+      "week": "2026-10-07",
+      "prevWeek": "2026-09-30",
       "new": [
+        "20180700000",
+        "1722476012",
+        "5783602117",
+        "94816",
+        "4053",
+        "20170200000",
+        "81836002012",
+        "1356200052",
+        "3915301002",
+        "4010000067",
+        "85921600300",
+        "18",
+        "8500001163",
+        "8807618695",
+        "72109419905",
+        "74265115210",
+        "74459814778",
+        "81153801956",
+        "5",
+        "88112245063",
+        "0022356700000",
+        "0022356800000",
+        "22119400000",
+        "22155100000",
+        "22124700000",
+        "22181800000",
+        "74597894223",
+        "87919900057"
+      ],
+      "dropped": [
+        "20088400000",
+        "20911500000",
+        "20017700000",
+        "22110500000",
+        "4022",
+        "7274506369",
+        "88112245125",
+        "88112245126",
+        "20089100000",
+        "2200-750",
+        "20221000000",
+        "70733051155",
+        "81836002617",
+        "20164600000",
+        "20903300000",
+        "7",
+        "94225",
+        "94409",
+        "70733080155",
+        "93134",
+        "1299-516",
+        "22119800000",
+        "22134800000",
         "20111400000",
-        "23342100000",
         "66919120456",
         "74265112310",
         "81352601083",
-        "81907201062",
         "76211",
         "20240000000",
         "20906300000",
@@ -20770,7 +21996,6 @@
         "72105900150",
         "72462411609",
         "843700330443",
-        "23336100000",
         "2636",
         "22215500000",
         "22232600000",
@@ -20781,94 +22006,35 @@
         "3077215778",
         "3077216014"
       ],
-      "dropped": [
-        "94022",
-        "20160900000",
-        "20245500000",
-        "81836002618",
-        "6",
-        "20061800000",
-        "20336900000",
-        "20338800000",
-        "85273500302",
-        "20016500000",
-        "20062300000",
-        "1560",
-        "88112245104",
-        "88112245105",
-        "20245000000",
-        "20908800000",
-        "3110",
-        "73873",
-        "81836002813",
-        "23333500000",
-        "3440",
-        "4381",
-        "93277",
-        "94759",
-        "6110410327",
-        "19589341177",
-        "19764491719",
-        "23333600000",
-        "22168800000",
-        "73735",
-        "4131",
-        "94079",
-        "5355-576",
-        "20907100000",
-        "20900000000",
-        "3997801103",
-        "63256500010",
-        "49",
-        "7225009251",
-        "85005283226",
-        "1623600002",
-        "5149750029",
-        "8048028002",
-        "63298720020",
-        "69845010546",
-        "85000550906",
-        "85000550909",
-        "85065100511",
-        "89622400015",
-        "24119900000",
-        "22162400000",
-        "22167400000",
-        "22980600000",
-        "1396412743",
-        "3077222883"
-      ],
       "returning": [
-        "20088400000",
-        "20911500000",
+        "20010500000",
+        "20062200000",
+        "20245500000",
+        "4409",
+        "2724145421",
+        "20070500000",
+        "20909300000",
+        "20062000000",
+        "20142900000",
+        "9041-567",
+        "8800401154",
+        "20503600000",
+        "1557",
+        "22110600000",
+        "20220300000",
+        "73873",
+        "88112245022",
+        "93603"
+      ],
+      "continued": [
         "3",
-        "20017700000",
-        "22110500000",
-        "4022",
-        "7274506369",
         "3114200088",
         "3114200126",
         "3114200152",
         "3114200103",
-        "88112245125",
-        "88112245126",
-        "20089100000",
-        "2200-750",
-        "20221000000",
-        "70733051155",
-        "81836002617",
-        "20164600000",
-        "20903300000",
-        "7",
-        "94409",
-        "70733080155",
-        "93134",
-        "1299-516"
-      ],
-      "continued": [
-        "94225",
-        "22119800000",
-        "22134800000"
+        "23342100000",
+        "81907201062",
+        "23336100000"
       ]
     }
   ],
@@ -22333,64 +23499,175 @@
           "name": "Beringer Knights Valley Cabernet Sauvignon",
           "department": "adult-beverages",
           "price": 27.99,
-          "save": 24,
-          "dealScore": 64
+          "save": 24
         },
         {
           "sku": "72462411609",
           "name": "J Vineyards Pinot Gris",
           "department": "adult-beverages",
           "price": 13.99,
-          "save": 11,
-          "dealScore": 61
+          "save": 11
         },
         {
           "sku": "74265112310",
           "name": "Ferrari-Carano Fumé Blanc",
           "department": "adult-beverages",
           "price": 9.99,
-          "save": 9,
-          "dealScore": 66
+          "save": 9
         },
         {
           "sku": "66919120456",
           "name": "Zhou Creatine Chews",
           "department": "healthy-living",
           "price": 21.99,
-          "save": 8,
-          "dealScore": 37
+          "save": 8
         },
         {
           "sku": "63403900076",
           "name": "O Olive Oil California Premium Extra Virgin Olive",
           "department": "staples",
           "price": 9.99,
-          "save": 8,
-          "dealScore": 62
+          "save": 8
         },
         {
           "sku": "8800401012",
           "name": "Taaka Vodka",
           "department": "adult-beverages",
           "price": 9.99,
-          "save": 8,
-          "dealScore": 62
+          "save": 8
         },
         {
           "sku": "1299-516",
           "name": "Premium Beef New York Steaks",
           "department": "meat",
           "price": 19.99,
-          "save": 7,
-          "dealScore": 33
+          "save": 7
         },
         {
           "sku": "4408253341",
           "name": "Once Again Organic Creamy Cashew Butter",
           "department": "staples",
           "price": 8.99,
-          "save": 7,
-          "dealScore": 61
+          "save": 7
+        }
+      ]
+    },
+    {
+      "location": "blue-oaks",
+      "week": "2026-10-07",
+      "count": 54,
+      "avgSave": 3.27,
+      "byDepartment": [
+        {
+          "department": "meat",
+          "count": 14,
+          "avgSave": 2.69
+        },
+        {
+          "department": "kitchen",
+          "count": 9,
+          "avgSave": 0.94
+        },
+        {
+          "department": "adult-beverages",
+          "count": 8,
+          "avgSave": 8.88
+        },
+        {
+          "department": "produce",
+          "count": 8,
+          "avgSave": 1.12
+        },
+        {
+          "department": "specialty-cheese",
+          "count": 6,
+          "avgSave": 1.67
+        },
+        {
+          "department": "staples",
+          "count": 5,
+          "avgSave": 6.3
+        },
+        {
+          "department": "floral",
+          "count": 2,
+          "avgSave": 2
+        },
+        {
+          "department": "bakery",
+          "count": 1,
+          "avgSave": 1
+        },
+        {
+          "department": "coffee-bar",
+          "count": 1,
+          "avgSave": 1.5
+        }
+      ],
+      "biggestDeals": [
+        {
+          "sku": "74459814778",
+          "name": "Schug Sonoma Coast Pinot Noir",
+          "department": "adult-beverages",
+          "price": 16.99,
+          "save": 13,
+          "dealScore": 60
+        },
+        {
+          "sku": "3915301002",
+          "name": "Colavita Extra Virgin Olive Oil",
+          "department": "staples",
+          "price": 22.99,
+          "save": 12,
+          "dealScore": 47
+        },
+        {
+          "sku": "1722476012",
+          "name": "Conundrum Red Blend Wine",
+          "department": "adult-beverages",
+          "price": 14.99,
+          "save": 11,
+          "dealScore": 59
+        },
+        {
+          "sku": "8500001163",
+          "name": "Louis M. Martini Sonoma County Cabernet Sauvignon",
+          "department": "adult-beverages",
+          "price": 16.99,
+          "save": 10,
+          "dealScore": 51
+        },
+        {
+          "sku": "85921600300",
+          "name": "Cup4Cup Gluten-Free Flour",
+          "department": "staples",
+          "price": 13.99,
+          "save": 9,
+          "dealScore": 54
+        },
+        {
+          "sku": "74265115210",
+          "name": "Ferrari‑Carano Pinot Grigio",
+          "department": "adult-beverages",
+          "price": 12.99,
+          "save": 9,
+          "dealScore": 57
+        },
+        {
+          "sku": "8807618695",
+          "name": "Astral Tequila Blanco",
+          "department": "adult-beverages",
+          "price": 17.99,
+          "save": 8,
+          "dealScore": 43
+        },
+        {
+          "sku": "72109419905",
+          "name": "Goslings Black Seal Bermuda Black Rum",
+          "department": "adult-beverages",
+          "price": 19.99,
+          "save": 8,
+          "dealScore": 40
         }
       ]
     },
@@ -23854,64 +25131,175 @@
           "name": "Beringer Knights Valley Cabernet Sauvignon",
           "department": "adult-beverages",
           "price": 27.99,
-          "save": 24,
-          "dealScore": 64
+          "save": 24
         },
         {
           "sku": "72462411609",
           "name": "J Vineyards Pinot Gris",
           "department": "adult-beverages",
           "price": 13.99,
-          "save": 11,
-          "dealScore": 61
+          "save": 11
         },
         {
           "sku": "74265112310",
           "name": "Ferrari-Carano Fumé Blanc",
           "department": "adult-beverages",
           "price": 9.99,
-          "save": 9,
-          "dealScore": 66
+          "save": 9
         },
         {
           "sku": "66919120456",
           "name": "Zhou Creatine Chews",
           "department": "healthy-living",
           "price": 21.99,
-          "save": 8,
-          "dealScore": 37
+          "save": 8
         },
         {
           "sku": "63403900076",
           "name": "O Olive Oil California Premium Extra Virgin Olive",
           "department": "staples",
           "price": 9.99,
-          "save": 8,
-          "dealScore": 62
+          "save": 8
         },
         {
           "sku": "8800401012",
           "name": "Taaka Vodka",
           "department": "adult-beverages",
           "price": 9.99,
-          "save": 8,
-          "dealScore": 62
+          "save": 8
         },
         {
           "sku": "1299-516",
           "name": "Premium Beef New York Steaks",
           "department": "meat",
           "price": 19.99,
-          "save": 7,
-          "dealScore": 33
+          "save": 7
         },
         {
           "sku": "4408253341",
           "name": "Once Again Organic Creamy Cashew Butter",
           "department": "staples",
           "price": 8.99,
-          "save": 7,
-          "dealScore": 61
+          "save": 7
+        }
+      ]
+    },
+    {
+      "location": "granite-bay",
+      "week": "2026-10-07",
+      "count": 54,
+      "avgSave": 3.27,
+      "byDepartment": [
+        {
+          "department": "meat",
+          "count": 14,
+          "avgSave": 2.69
+        },
+        {
+          "department": "kitchen",
+          "count": 9,
+          "avgSave": 0.94
+        },
+        {
+          "department": "adult-beverages",
+          "count": 8,
+          "avgSave": 8.88
+        },
+        {
+          "department": "produce",
+          "count": 8,
+          "avgSave": 1.12
+        },
+        {
+          "department": "specialty-cheese",
+          "count": 6,
+          "avgSave": 1.67
+        },
+        {
+          "department": "staples",
+          "count": 5,
+          "avgSave": 6.3
+        },
+        {
+          "department": "floral",
+          "count": 2,
+          "avgSave": 2
+        },
+        {
+          "department": "bakery",
+          "count": 1,
+          "avgSave": 1
+        },
+        {
+          "department": "coffee-bar",
+          "count": 1,
+          "avgSave": 1.5
+        }
+      ],
+      "biggestDeals": [
+        {
+          "sku": "74459814778",
+          "name": "Schug Sonoma Coast Pinot Noir",
+          "department": "adult-beverages",
+          "price": 16.99,
+          "save": 13,
+          "dealScore": 60
+        },
+        {
+          "sku": "3915301002",
+          "name": "Colavita Extra Virgin Olive Oil",
+          "department": "staples",
+          "price": 22.99,
+          "save": 12,
+          "dealScore": 47
+        },
+        {
+          "sku": "1722476012",
+          "name": "Conundrum Red Blend Wine",
+          "department": "adult-beverages",
+          "price": 14.99,
+          "save": 11,
+          "dealScore": 59
+        },
+        {
+          "sku": "8500001163",
+          "name": "Louis M. Martini Sonoma County Cabernet Sauvignon",
+          "department": "adult-beverages",
+          "price": 16.99,
+          "save": 10,
+          "dealScore": 51
+        },
+        {
+          "sku": "85921600300",
+          "name": "Cup4Cup Gluten-Free Flour",
+          "department": "staples",
+          "price": 13.99,
+          "save": 9,
+          "dealScore": 54
+        },
+        {
+          "sku": "74265115210",
+          "name": "Ferrari‑Carano Pinot Grigio",
+          "department": "adult-beverages",
+          "price": 12.99,
+          "save": 9,
+          "dealScore": 57
+        },
+        {
+          "sku": "8807618695",
+          "name": "Astral Tequila Blanco",
+          "department": "adult-beverages",
+          "price": 17.99,
+          "save": 8,
+          "dealScore": 43
+        },
+        {
+          "sku": "72109419905",
+          "name": "Goslings Black Seal Bermuda Black Rum",
+          "department": "adult-beverages",
+          "price": 19.99,
+          "save": 8,
+          "dealScore": 40
         }
       ]
     },
@@ -25375,80 +26763,191 @@
           "name": "Beringer Knights Valley Cabernet Sauvignon",
           "department": "adult-beverages",
           "price": 27.99,
-          "save": 24,
-          "dealScore": 64
+          "save": 24
         },
         {
           "sku": "72462411609",
           "name": "J Vineyards Pinot Gris",
           "department": "adult-beverages",
           "price": 13.99,
-          "save": 11,
-          "dealScore": 61
+          "save": 11
         },
         {
           "sku": "74265112310",
           "name": "Ferrari-Carano Fumé Blanc",
           "department": "adult-beverages",
           "price": 9.99,
-          "save": 9,
-          "dealScore": 66
+          "save": 9
         },
         {
           "sku": "66919120456",
           "name": "Zhou Creatine Chews",
           "department": "healthy-living",
           "price": 21.99,
-          "save": 8,
-          "dealScore": 37
+          "save": 8
         },
         {
           "sku": "63403900076",
           "name": "O Olive Oil California Premium Extra Virgin Olive",
           "department": "staples",
           "price": 9.99,
-          "save": 8,
-          "dealScore": 62
+          "save": 8
         },
         {
           "sku": "8800401012",
           "name": "Taaka Vodka",
           "department": "adult-beverages",
           "price": 9.99,
-          "save": 8,
-          "dealScore": 62
+          "save": 8
         },
         {
           "sku": "1299-516",
           "name": "Premium Beef New York Steaks",
           "department": "meat",
           "price": 19.99,
-          "save": 7,
-          "dealScore": 33
+          "save": 7
         },
         {
           "sku": "4408253341",
           "name": "Once Again Organic Creamy Cashew Butter",
           "department": "staples",
           "price": 8.99,
-          "save": 7,
-          "dealScore": 61
+          "save": 7
+        }
+      ]
+    },
+    {
+      "location": "rocklin",
+      "week": "2026-10-07",
+      "count": 54,
+      "avgSave": 3.27,
+      "byDepartment": [
+        {
+          "department": "meat",
+          "count": 14,
+          "avgSave": 2.69
+        },
+        {
+          "department": "kitchen",
+          "count": 9,
+          "avgSave": 0.94
+        },
+        {
+          "department": "adult-beverages",
+          "count": 8,
+          "avgSave": 8.88
+        },
+        {
+          "department": "produce",
+          "count": 8,
+          "avgSave": 1.12
+        },
+        {
+          "department": "specialty-cheese",
+          "count": 6,
+          "avgSave": 1.67
+        },
+        {
+          "department": "staples",
+          "count": 5,
+          "avgSave": 6.3
+        },
+        {
+          "department": "floral",
+          "count": 2,
+          "avgSave": 2
+        },
+        {
+          "department": "bakery",
+          "count": 1,
+          "avgSave": 1
+        },
+        {
+          "department": "coffee-bar",
+          "count": 1,
+          "avgSave": 1.5
+        }
+      ],
+      "biggestDeals": [
+        {
+          "sku": "74459814778",
+          "name": "Schug Sonoma Coast Pinot Noir",
+          "department": "adult-beverages",
+          "price": 16.99,
+          "save": 13,
+          "dealScore": 60
+        },
+        {
+          "sku": "3915301002",
+          "name": "Colavita Extra Virgin Olive Oil",
+          "department": "staples",
+          "price": 22.99,
+          "save": 12,
+          "dealScore": 47
+        },
+        {
+          "sku": "1722476012",
+          "name": "Conundrum Red Blend Wine",
+          "department": "adult-beverages",
+          "price": 14.99,
+          "save": 11,
+          "dealScore": 59
+        },
+        {
+          "sku": "8500001163",
+          "name": "Louis M. Martini Sonoma County Cabernet Sauvignon",
+          "department": "adult-beverages",
+          "price": 16.99,
+          "save": 10,
+          "dealScore": 51
+        },
+        {
+          "sku": "85921600300",
+          "name": "Cup4Cup Gluten-Free Flour",
+          "department": "staples",
+          "price": 13.99,
+          "save": 9,
+          "dealScore": 54
+        },
+        {
+          "sku": "74265115210",
+          "name": "Ferrari‑Carano Pinot Grigio",
+          "department": "adult-beverages",
+          "price": 12.99,
+          "save": 9,
+          "dealScore": 57
+        },
+        {
+          "sku": "8807618695",
+          "name": "Astral Tequila Blanco",
+          "department": "adult-beverages",
+          "price": 17.99,
+          "save": 8,
+          "dealScore": 43
+        },
+        {
+          "sku": "72109419905",
+          "name": "Goslings Black Seal Bermuda Black Rum",
+          "department": "adult-beverages",
+          "price": 19.99,
+          "save": 8,
+          "dealScore": 40
         }
       ]
     }
   ],
   "storeOfWeek": {
     "location": "blue-oaks",
-    "strongDeals": 3,
-    "totalDeals": 58
+    "strongDeals": 2,
+    "totalDeals": 54
   },
   "biggestDealOfWeek": {
-    "sku": "7",
-    "name": "7-Up Singles",
+    "sku": "18",
+    "name": "18 Chestnuts Soups",
     "department": "staples",
-    "price": 1,
-    "save": 2.29,
-    "dealScore": 87,
+    "price": 5.99,
+    "save": 6,
+    "dealScore": 69,
     "location": "blue-oaks"
   }
 }

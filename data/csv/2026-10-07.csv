@@ -1,0 +1,163 @@
+store,week_start,department,sku,name,pack_size,price,price_unit,unit_price,unit_price_label,save_amount,price_text,save_text,labels,is_featured,product_url
+blue-oaks,2026-10-07,meat,20180700000,USDA Prime Beef Top Sirloin,,12.99,lb,0.8119,$0.81/oz,7,$12.99/lb.,Save $7/lb.,,yes,https://www.nuggetmarket.com/specials/meat/20180700000/
+blue-oaks,2026-10-07,adult-beverages,1722476012,Conundrum Red Blend Wine,750 ML. bottle,14.99,ea,0.02,$0.020/ml,11,$14.99+crv,Save $11,,yes,https://www.nuggetmarket.com/specials/adult-beverages/1722476012/
+blue-oaks,2026-10-07,produce,5783602117,Wild Wonders Cherry Tomatoes,,5.99,ea,,,2,$5.99,Save $2,,no,https://www.nuggetmarket.com/specials/produce/5783602117/
+blue-oaks,2026-10-07,produce,93603,Organic SweeTango Apples,,2.99,lb,0.1869,$0.19/oz,1,$2.99/lb.,Save $1/lb.,Organic,no,https://www.nuggetmarket.com/specials/produce/93603/
+blue-oaks,2026-10-07,produce,94816,"Organic Purple, White, Orange, Red or Japanese Sweet Potatoes",,2.49,lb,0.1556,$0.16/oz,0.5,$2.49/lb.,Save 50¢/lb.,California Grown; Organic,no,https://www.nuggetmarket.com/specials/produce/94816/
+blue-oaks,2026-10-07,produce,4409,Bartlett Pears,,1.99,lb,0.1244,$0.12/oz,0.5,$1.99/lb.,Save 50¢/lb.,,no,https://www.nuggetmarket.com/specials/produce/4409/
+blue-oaks,2026-10-07,produce,4053,Lemons,,0.5,ea,,,0.49,2/$1,Save 98¢ on 2,California Grown,no,https://www.nuggetmarket.com/specials/produce/4053/
+blue-oaks,2026-10-07,produce,81907201062,Organic Berry Red Kiwis,,5.99,ea,,,1,$5.99,Save $1,Local,no,https://www.nuggetmarket.com/specials/produce/81907201062/
+blue-oaks,2026-10-07,produce,3,Mandarin Tangerines,,6.99,ea,,,1.5,$6.99,Save $1.50,,no,https://www.nuggetmarket.com/specials/produce/3LB+CUTIES/
+blue-oaks,2026-10-07,produce,73873,Strawberries,,3.99,ea,,,2,$3.99,Save $2,California Grown,no,https://www.nuggetmarket.com/specials/produce/73873/
+blue-oaks,2026-10-07,meat,20170200000,Wagyu Chuck Roasts,,13.99,lb,0.8744,$0.87/oz,2,$13.99/lb.,Save $2/lb.,,no,https://www.nuggetmarket.com/specials/meat/20170200000/
+blue-oaks,2026-10-07,meat,20142900000,Organic Boneless & Skinless Chicken Breasts,,10.99,lb,0.6869,$0.69/oz,2,$10.99/lb.,Save $2/lb.,Organic,no,https://www.nuggetmarket.com/specials/meat/20142900000/
+blue-oaks,2026-10-07,meat,20070500000,Organic Whole Chickens,,3.99,lb,0.2494,$0.25/oz,0.5,$3.99/lb.,Save 50¢/lb.,Local; Organic,no,https://www.nuggetmarket.com/specials/meat/20070500000/
+blue-oaks,2026-10-07,meat,20062200000,Organic Bone‑In Chicken Thighs,,5.99,lb,0.3744,$0.37/oz,1,$5.99/lb.,Save $1/lb.,Local; Organic,no,https://www.nuggetmarket.com/specials/meat/20062200000/
+blue-oaks,2026-10-07,meat,20062000000,Organic Chicken Party Wings,,4.99,lb,0.3119,$0.31/oz,2,$4.99/lb.,Save $2/lb.,Local; Organic,no,https://www.nuggetmarket.com/specials/meat/20062000000/
+blue-oaks,2026-10-07,meat,20010500000,Pure Air‑Chilled Whole Chickens,,2.29,lb,0.1431,$0.14/oz,0.2,$2.29/lb.,Save 20¢/lb.,,no,https://www.nuggetmarket.com/specials/meat/20010500000/
+blue-oaks,2026-10-07,meat,2724145421,Gulf Prawns,,26.99,ea,,,6,$26.99,Save $6,,no,https://www.nuggetmarket.com/specials/meat/2724145421/
+blue-oaks,2026-10-07,meat,20220300000,Beef Boneless New York Steaks,,24.99,lb,1.5619,$1.56/oz,5,$24.99/lb.,Save $5/lb.,,no,https://www.nuggetmarket.com/specials/meat/20220300000/
+blue-oaks,2026-10-07,meat,20245500000,Grass‑Fed Beef Top Sirloin Picanha Steaks,,17.99,lb,1.1244,$1.12/oz,2,$17.99/lb.,Save $2/lb.,,no,https://www.nuggetmarket.com/specials/meat/20245500000/
+blue-oaks,2026-10-07,meat,20503600000,True Cod Fillets,,15.99,lb,0.9994,$1.00/oz,2,$15.99/lb.,Save $2/lb.,,no,https://www.nuggetmarket.com/specials/meat/20503600000/
+blue-oaks,2026-10-07,meat,20909300000,Gulf Prawns,,12.99,lb,0.8119,$0.81/oz,4,$12.99/lb.,Save $4/lb.,,no,https://www.nuggetmarket.com/specials/meat/20909300000/
+blue-oaks,2026-10-07,meat,81836002012,Grass-Fed Beef Stew Meat,,11.99,ea,,,1,$11.99,Save $1,,no,https://www.nuggetmarket.com/specials/meat/81836002012/
+blue-oaks,2026-10-07,meat,9041-567,New Zealand King Salmon Fillets,,29.99,lb,1.8744,$1.87/oz,3,$29.99/lb.,Save $3/lb.,,no,https://www.nuggetmarket.com/specials/meat/9041-567/
+blue-oaks,2026-10-07,staples,1356200052,Annie’s Graham Crackers,,3.99,ea,,,3,$3.99,Save $3,Local; Organic,no,https://www.nuggetmarket.com/specials/staples/1356200052/
+blue-oaks,2026-10-07,staples,3915301002,Colavita Extra Virgin Olive Oil,,22.99,ea,,,12,$22.99,Save $12,Imported,no,https://www.nuggetmarket.com/specials/staples/3915301002/
+blue-oaks,2026-10-07,staples,4010000067,Fleischmann’s Simply Homemade Cornbread Baking Mix,,2.5,ea,,,1.49,2/$5,Save $2.98 on 2,,no,https://www.nuggetmarket.com/specials/staples/4010000067/
+blue-oaks,2026-10-07,staples,85921600300,Cup4Cup Gluten-Free Flour,,13.99,ea,,,9,$13.99,Save $9,Gluten Free; Local,no,https://www.nuggetmarket.com/specials/staples/85921600300/
+blue-oaks,2026-10-07,staples,18,18 Chestnuts Soups,,5.99,ea,,,6,$5.99,Save $6,,no,https://www.nuggetmarket.com/specials/staples/18CHSTNUT/
+blue-oaks,2026-10-07,adult-beverages,8500001163,Louis M. Martini Sonoma County Cabernet Sauvignon,,16.99,ea,,,10,$16.99+crv,Save $10,,no,https://www.nuggetmarket.com/specials/adult-beverages/8500001163/
+blue-oaks,2026-10-07,adult-beverages,8800401154,Taaka Vodka,,5.99,ea,,,4,$5.99+crv,Save $4,,no,https://www.nuggetmarket.com/specials/adult-beverages/8800401154/
+blue-oaks,2026-10-07,adult-beverages,8807618695,Astral Tequila Blanco,,17.99,ea,,,8,$17.99+crv,Save $8,,no,https://www.nuggetmarket.com/specials/adult-beverages/8807618695/
+blue-oaks,2026-10-07,adult-beverages,72109419905,Goslings Black Seal Bermuda Black Rum,,19.99,ea,,,8,$19.99+crv,Save $8,,no,https://www.nuggetmarket.com/specials/adult-beverages/72109419905/
+blue-oaks,2026-10-07,adult-beverages,74265115210,Ferrari‑Carano Pinot Grigio,,12.99,ea,,,9,$12.99+crv,Save $9,,no,https://www.nuggetmarket.com/specials/adult-beverages/74265115210/
+blue-oaks,2026-10-07,adult-beverages,74459814778,Schug Sonoma Coast Pinot Noir,,16.99,ea,,,13,$16.99+crv,Save $13,,no,https://www.nuggetmarket.com/specials/adult-beverages/74459814778/
+blue-oaks,2026-10-07,adult-beverages,81153801956,Proper No. Twelve Irish Whiskey,,17.99,ea,,,8,$17.99+crv,Save $8,,no,https://www.nuggetmarket.com/specials/adult-beverages/81153801956/
+blue-oaks,2026-10-07,specialty-cheese,3114200088,Fresh Mozzarella Ball,,4.99,ea,,,2,$4.99,Save $2,Vegetarian,no,https://www.nuggetmarket.com/specials/specialty-cheese/3114200088/
+blue-oaks,2026-10-07,specialty-cheese,3114200103,Black Truffle Burrata,,7.99,ea,,,1,$7.99,Save $1,Vegetarian,no,https://www.nuggetmarket.com/specials/specialty-cheese/3114200103/
+blue-oaks,2026-10-07,specialty-cheese,3114200126,Mini Burrata,,6.99,ea,,,1,$6.99,Save $1,Vegetarian,no,https://www.nuggetmarket.com/specials/specialty-cheese/3114200126/
+blue-oaks,2026-10-07,specialty-cheese,3114200152,Stracciatella Burrata Filling,,5.49,ea,,,1,$5.49/ea.,Save $1/ea.,,no,https://www.nuggetmarket.com/specials/specialty-cheese/3114200152/
+blue-oaks,2026-10-07,specialty-cheese,23336100000,Lamb Chopper,,32.99,lb,2.0619,$2.06/oz,4,$32.99/lb.,Save $4/lb.,Vegetarian,no,https://www.nuggetmarket.com/specials/specialty-cheese/23336100000/
+blue-oaks,2026-10-07,specialty-cheese,23342100000,Fontina,,10.99,lb,0.6869,$0.69/oz,1,$10.99/lb.,Save $1/lb.,Vegetarian,no,https://www.nuggetmarket.com/specials/specialty-cheese/23342100000/
+blue-oaks,2026-10-07,bakery,5,Caramel Apple Cake,,24.99,ea,,,1,$24.99/ea.,Save $1/ea.,Scratch-Made,no,https://www.nuggetmarket.com/specials/bakery/5__inch__+CLASSIC/
+blue-oaks,2026-10-07,coffee-bar,1557,Thai Iced Tea,,4.5,ea,,,1.5,$4.50,Save $1.50,,no,https://www.nuggetmarket.com/specials/coffee-bar/1557/
+blue-oaks,2026-10-07,kitchen,88112245022,Firecracker Sushi Roll,,12.95,ea,,,1,$12.95/ea.,Save $1/ea.,Scratch-Made,no,https://www.nuggetmarket.com/specials/kitchen/88112245022/
+blue-oaks,2026-10-07,kitchen,88112245063,Crab Stick Philly Roll,,8.75,ea,,,1,$8.75/ea.,Save $1/ea.,Scratch-Made,no,https://www.nuggetmarket.com/specials/kitchen/88112245063/
+blue-oaks,2026-10-07,kitchen,0022356700000,The NOLA Sandwich,,11.99,ea,,,1,$11.99/ea.,Save $1/ea.,Scratch-Made,no,https://www.nuggetmarket.com/specials/kitchen/0022356700000/
+blue-oaks,2026-10-07,kitchen,0022356800000,The Rio Grande Sandwich,,13.99,ea,,,1,$13.99/ea.,Save $1/ea.,Scratch-Made,no,https://www.nuggetmarket.com/specials/kitchen/0022356800000/
+blue-oaks,2026-10-07,kitchen,22110600000,The Fryer’s Turkey Breast,,15.99,lb,0.9994,$1.00/oz,1,$15.99/lb.,Save $1/lb.,,no,https://www.nuggetmarket.com/specials/kitchen/22110600000/
+blue-oaks,2026-10-07,kitchen,22119400000,Uncured Pastrami,,20.99,lb,1.3119,$1.31/oz,1,$20.99/lb.,Save $1/lb.,,no,https://www.nuggetmarket.com/specials/kitchen/22119400000/
+blue-oaks,2026-10-07,kitchen,22155100000,Caramelized Onion Jack Cheese,,12.49,lb,0.7806,$0.78/oz,0.5,$12.49/lb.,Save 50¢/lb.,,no,https://www.nuggetmarket.com/specials/kitchen/22155100000/
+blue-oaks,2026-10-07,kitchen,22124700000,Herbed Butternut Squash,,12.99,lb,0.8119,$0.81/oz,1,$12.99/lb.,Save $1/lb.,Vegan; Scratch-Made,no,https://www.nuggetmarket.com/specials/kitchen/22124700000/
+blue-oaks,2026-10-07,kitchen,22181800000,Meatloaf,,13.99,lb,0.8744,$0.87/oz,,$13.99/lb.,,Scratch-Made,no,https://www.nuggetmarket.com/specials/kitchen/22181800000/
+blue-oaks,2026-10-07,floral,74597894223,"6"" Euphorbia in Ceramic",,22,ea,,,3,$22/ea.,Save $3/ea.,,no,https://www.nuggetmarket.com/specials/floral/74597894223/
+blue-oaks,2026-10-07,floral,87919900057,Octoberfest Bouquet,,17,ea,,,1,$17/ea.,Save $1/ea.,,no,https://www.nuggetmarket.com/specials/floral/87919900057/
+granite-bay,2026-10-07,meat,20180700000,USDA Prime Beef Top Sirloin,,12.99,lb,0.8119,$0.81/oz,7,$12.99/lb.,Save $7/lb.,,yes,https://www.nuggetmarket.com/specials/meat/20180700000/
+granite-bay,2026-10-07,adult-beverages,1722476012,Conundrum Red Blend Wine,750 ML. bottle,14.99,ea,0.02,$0.020/ml,11,$14.99+crv,Save $11,,yes,https://www.nuggetmarket.com/specials/adult-beverages/1722476012/
+granite-bay,2026-10-07,produce,5783602117,Wild Wonders Cherry Tomatoes,,5.99,ea,,,2,$5.99,Save $2,,no,https://www.nuggetmarket.com/specials/produce/5783602117/
+granite-bay,2026-10-07,produce,93603,Organic SweeTango Apples,,2.99,lb,0.1869,$0.19/oz,1,$2.99/lb.,Save $1/lb.,Organic,no,https://www.nuggetmarket.com/specials/produce/93603/
+granite-bay,2026-10-07,produce,94816,"Organic Purple, White, Orange, Red or Japanese Sweet Potatoes",,2.49,lb,0.1556,$0.16/oz,0.5,$2.49/lb.,Save 50¢/lb.,California Grown; Organic,no,https://www.nuggetmarket.com/specials/produce/94816/
+granite-bay,2026-10-07,produce,4409,Bartlett Pears,,1.99,lb,0.1244,$0.12/oz,0.5,$1.99/lb.,Save 50¢/lb.,,no,https://www.nuggetmarket.com/specials/produce/4409/
+granite-bay,2026-10-07,produce,4053,Lemons,,0.5,ea,,,0.49,2/$1,Save 98¢ on 2,California Grown,no,https://www.nuggetmarket.com/specials/produce/4053/
+granite-bay,2026-10-07,produce,81907201062,Organic Berry Red Kiwis,,5.99,ea,,,1,$5.99,Save $1,Local,no,https://www.nuggetmarket.com/specials/produce/81907201062/
+granite-bay,2026-10-07,produce,3,Mandarin Tangerines,,6.99,ea,,,1.5,$6.99,Save $1.50,,no,https://www.nuggetmarket.com/specials/produce/3LB+CUTIES/
+granite-bay,2026-10-07,produce,73873,Strawberries,,3.99,ea,,,2,$3.99,Save $2,California Grown,no,https://www.nuggetmarket.com/specials/produce/73873/
+granite-bay,2026-10-07,meat,20170200000,Wagyu Chuck Roasts,,13.99,lb,0.8744,$0.87/oz,2,$13.99/lb.,Save $2/lb.,,no,https://www.nuggetmarket.com/specials/meat/20170200000/
+granite-bay,2026-10-07,meat,20142900000,Organic Boneless & Skinless Chicken Breasts,,10.99,lb,0.6869,$0.69/oz,2,$10.99/lb.,Save $2/lb.,Organic,no,https://www.nuggetmarket.com/specials/meat/20142900000/
+granite-bay,2026-10-07,meat,20070500000,Organic Whole Chickens,,3.99,lb,0.2494,$0.25/oz,0.5,$3.99/lb.,Save 50¢/lb.,Local; Organic,no,https://www.nuggetmarket.com/specials/meat/20070500000/
+granite-bay,2026-10-07,meat,20062200000,Organic Bone‑In Chicken Thighs,,5.99,lb,0.3744,$0.37/oz,1,$5.99/lb.,Save $1/lb.,Local; Organic,no,https://www.nuggetmarket.com/specials/meat/20062200000/
+granite-bay,2026-10-07,meat,20062000000,Organic Chicken Party Wings,,4.99,lb,0.3119,$0.31/oz,2,$4.99/lb.,Save $2/lb.,Local; Organic,no,https://www.nuggetmarket.com/specials/meat/20062000000/
+granite-bay,2026-10-07,meat,20010500000,Pure Air‑Chilled Whole Chickens,,2.29,lb,0.1431,$0.14/oz,0.2,$2.29/lb.,Save 20¢/lb.,,no,https://www.nuggetmarket.com/specials/meat/20010500000/
+granite-bay,2026-10-07,meat,2724145421,Gulf Prawns,,26.99,ea,,,6,$26.99,Save $6,,no,https://www.nuggetmarket.com/specials/meat/2724145421/
+granite-bay,2026-10-07,meat,20220300000,Beef Boneless New York Steaks,,24.99,lb,1.5619,$1.56/oz,5,$24.99/lb.,Save $5/lb.,,no,https://www.nuggetmarket.com/specials/meat/20220300000/
+granite-bay,2026-10-07,meat,20245500000,Grass‑Fed Beef Top Sirloin Picanha Steaks,,17.99,lb,1.1244,$1.12/oz,2,$17.99/lb.,Save $2/lb.,,no,https://www.nuggetmarket.com/specials/meat/20245500000/
+granite-bay,2026-10-07,meat,20503600000,True Cod Fillets,,15.99,lb,0.9994,$1.00/oz,2,$15.99/lb.,Save $2/lb.,,no,https://www.nuggetmarket.com/specials/meat/20503600000/
+granite-bay,2026-10-07,meat,20909300000,Gulf Prawns,,12.99,lb,0.8119,$0.81/oz,4,$12.99/lb.,Save $4/lb.,,no,https://www.nuggetmarket.com/specials/meat/20909300000/
+granite-bay,2026-10-07,meat,81836002012,Grass-Fed Beef Stew Meat,,11.99,ea,,,1,$11.99,Save $1,,no,https://www.nuggetmarket.com/specials/meat/81836002012/
+granite-bay,2026-10-07,meat,9041-567,New Zealand King Salmon Fillets,,29.99,lb,1.8744,$1.87/oz,3,$29.99/lb.,Save $3/lb.,,no,https://www.nuggetmarket.com/specials/meat/9041-567/
+granite-bay,2026-10-07,staples,1356200052,Annie’s Graham Crackers,,3.99,ea,,,3,$3.99,Save $3,Local; Organic,no,https://www.nuggetmarket.com/specials/staples/1356200052/
+granite-bay,2026-10-07,staples,3915301002,Colavita Extra Virgin Olive Oil,,22.99,ea,,,12,$22.99,Save $12,Imported,no,https://www.nuggetmarket.com/specials/staples/3915301002/
+granite-bay,2026-10-07,staples,4010000067,Fleischmann’s Simply Homemade Cornbread Baking Mix,,2.5,ea,,,1.49,2/$5,Save $2.98 on 2,,no,https://www.nuggetmarket.com/specials/staples/4010000067/
+granite-bay,2026-10-07,staples,85921600300,Cup4Cup Gluten-Free Flour,,13.99,ea,,,9,$13.99,Save $9,Gluten Free; Local,no,https://www.nuggetmarket.com/specials/staples/85921600300/
+granite-bay,2026-10-07,staples,18,18 Chestnuts Soups,,5.99,ea,,,6,$5.99,Save $6,,no,https://www.nuggetmarket.com/specials/staples/18CHSTNUT/
+granite-bay,2026-10-07,adult-beverages,8500001163,Louis M. Martini Sonoma County Cabernet Sauvignon,,16.99,ea,,,10,$16.99+crv,Save $10,,no,https://www.nuggetmarket.com/specials/adult-beverages/8500001163/
+granite-bay,2026-10-07,adult-beverages,8800401154,Taaka Vodka,,5.99,ea,,,4,$5.99+crv,Save $4,,no,https://www.nuggetmarket.com/specials/adult-beverages/8800401154/
+granite-bay,2026-10-07,adult-beverages,8807618695,Astral Tequila Blanco,,17.99,ea,,,8,$17.99+crv,Save $8,,no,https://www.nuggetmarket.com/specials/adult-beverages/8807618695/
+granite-bay,2026-10-07,adult-beverages,72109419905,Goslings Black Seal Bermuda Black Rum,,19.99,ea,,,8,$19.99+crv,Save $8,,no,https://www.nuggetmarket.com/specials/adult-beverages/72109419905/
+granite-bay,2026-10-07,adult-beverages,74265115210,Ferrari‑Carano Pinot Grigio,,12.99,ea,,,9,$12.99+crv,Save $9,,no,https://www.nuggetmarket.com/specials/adult-beverages/74265115210/
+granite-bay,2026-10-07,adult-beverages,74459814778,Schug Sonoma Coast Pinot Noir,,16.99,ea,,,13,$16.99+crv,Save $13,,no,https://www.nuggetmarket.com/specials/adult-beverages/74459814778/
+granite-bay,2026-10-07,adult-beverages,81153801956,Proper No. Twelve Irish Whiskey,,17.99,ea,,,8,$17.99+crv,Save $8,,no,https://www.nuggetmarket.com/specials/adult-beverages/81153801956/
+granite-bay,2026-10-07,specialty-cheese,3114200088,Fresh Mozzarella Ball,,4.99,ea,,,2,$4.99,Save $2,Vegetarian,no,https://www.nuggetmarket.com/specials/specialty-cheese/3114200088/
+granite-bay,2026-10-07,specialty-cheese,3114200103,Black Truffle Burrata,,7.99,ea,,,1,$7.99,Save $1,Vegetarian,no,https://www.nuggetmarket.com/specials/specialty-cheese/3114200103/
+granite-bay,2026-10-07,specialty-cheese,3114200126,Mini Burrata,,6.99,ea,,,1,$6.99,Save $1,Vegetarian,no,https://www.nuggetmarket.com/specials/specialty-cheese/3114200126/
+granite-bay,2026-10-07,specialty-cheese,3114200152,Stracciatella Burrata Filling,,5.49,ea,,,1,$5.49/ea.,Save $1/ea.,,no,https://www.nuggetmarket.com/specials/specialty-cheese/3114200152/
+granite-bay,2026-10-07,specialty-cheese,23336100000,Lamb Chopper,,32.99,lb,2.0619,$2.06/oz,4,$32.99/lb.,Save $4/lb.,Vegetarian,no,https://www.nuggetmarket.com/specials/specialty-cheese/23336100000/
+granite-bay,2026-10-07,specialty-cheese,23342100000,Fontina,,10.99,lb,0.6869,$0.69/oz,1,$10.99/lb.,Save $1/lb.,Vegetarian,no,https://www.nuggetmarket.com/specials/specialty-cheese/23342100000/
+granite-bay,2026-10-07,bakery,5,Caramel Apple Cake,,24.99,ea,,,1,$24.99/ea.,Save $1/ea.,Scratch-Made,no,https://www.nuggetmarket.com/specials/bakery/5__inch__+CLASSIC/
+granite-bay,2026-10-07,coffee-bar,1557,Thai Iced Tea,,4.5,ea,,,1.5,$4.50,Save $1.50,,no,https://www.nuggetmarket.com/specials/coffee-bar/1557/
+granite-bay,2026-10-07,kitchen,88112245022,Firecracker Sushi Roll,,12.95,ea,,,1,$12.95/ea.,Save $1/ea.,Scratch-Made,no,https://www.nuggetmarket.com/specials/kitchen/88112245022/
+granite-bay,2026-10-07,kitchen,88112245063,Crab Stick Philly Roll,,8.75,ea,,,1,$8.75/ea.,Save $1/ea.,Scratch-Made,no,https://www.nuggetmarket.com/specials/kitchen/88112245063/
+granite-bay,2026-10-07,kitchen,0022356700000,The NOLA Sandwich,,11.99,ea,,,1,$11.99/ea.,Save $1/ea.,Scratch-Made,no,https://www.nuggetmarket.com/specials/kitchen/0022356700000/
+granite-bay,2026-10-07,kitchen,0022356800000,The Rio Grande Sandwich,,13.99,ea,,,1,$13.99/ea.,Save $1/ea.,Scratch-Made,no,https://www.nuggetmarket.com/specials/kitchen/0022356800000/
+granite-bay,2026-10-07,kitchen,22110600000,The Fryer’s Turkey Breast,,15.99,lb,0.9994,$1.00/oz,1,$15.99/lb.,Save $1/lb.,,no,https://www.nuggetmarket.com/specials/kitchen/22110600000/
+granite-bay,2026-10-07,kitchen,22119400000,Uncured Pastrami,,20.99,lb,1.3119,$1.31/oz,1,$20.99/lb.,Save $1/lb.,,no,https://www.nuggetmarket.com/specials/kitchen/22119400000/
+granite-bay,2026-10-07,kitchen,22155100000,Caramelized Onion Jack Cheese,,12.49,lb,0.7806,$0.78/oz,0.5,$12.49/lb.,Save 50¢/lb.,,no,https://www.nuggetmarket.com/specials/kitchen/22155100000/
+granite-bay,2026-10-07,kitchen,22124700000,Herbed Butternut Squash,,12.99,lb,0.8119,$0.81/oz,1,$12.99/lb.,Save $1/lb.,Vegan; Scratch-Made,no,https://www.nuggetmarket.com/specials/kitchen/22124700000/
+granite-bay,2026-10-07,kitchen,22181800000,Meatloaf,,13.99,lb,0.8744,$0.87/oz,,$13.99/lb.,,Scratch-Made,no,https://www.nuggetmarket.com/specials/kitchen/22181800000/
+granite-bay,2026-10-07,floral,74597894223,"6"" Euphorbia in Ceramic",,22,ea,,,3,$22/ea.,Save $3/ea.,,no,https://www.nuggetmarket.com/specials/floral/74597894223/
+granite-bay,2026-10-07,floral,87919900057,Octoberfest Bouquet,,17,ea,,,1,$17/ea.,Save $1/ea.,,no,https://www.nuggetmarket.com/specials/floral/87919900057/
+rocklin,2026-10-07,meat,20180700000,USDA Prime Beef Top Sirloin,,12.99,lb,0.8119,$0.81/oz,7,$12.99/lb.,Save $7/lb.,,yes,https://www.nuggetmarket.com/specials/meat/20180700000/
+rocklin,2026-10-07,adult-beverages,1722476012,Conundrum Red Blend Wine,750 ML. bottle,14.99,ea,0.02,$0.020/ml,11,$14.99+crv,Save $11,,yes,https://www.nuggetmarket.com/specials/adult-beverages/1722476012/
+rocklin,2026-10-07,produce,5783602117,Wild Wonders Cherry Tomatoes,,5.99,ea,,,2,$5.99,Save $2,,no,https://www.nuggetmarket.com/specials/produce/5783602117/
+rocklin,2026-10-07,produce,93603,Organic SweeTango Apples,,2.99,lb,0.1869,$0.19/oz,1,$2.99/lb.,Save $1/lb.,Organic,no,https://www.nuggetmarket.com/specials/produce/93603/
+rocklin,2026-10-07,produce,94816,"Organic Purple, White, Orange, Red or Japanese Sweet Potatoes",,2.49,lb,0.1556,$0.16/oz,0.5,$2.49/lb.,Save 50¢/lb.,California Grown; Organic,no,https://www.nuggetmarket.com/specials/produce/94816/
+rocklin,2026-10-07,produce,4409,Bartlett Pears,,1.99,lb,0.1244,$0.12/oz,0.5,$1.99/lb.,Save 50¢/lb.,,no,https://www.nuggetmarket.com/specials/produce/4409/
+rocklin,2026-10-07,produce,4053,Lemons,,0.5,ea,,,0.49,2/$1,Save 98¢ on 2,California Grown,no,https://www.nuggetmarket.com/specials/produce/4053/
+rocklin,2026-10-07,produce,81907201062,Organic Berry Red Kiwis,,5.99,ea,,,1,$5.99,Save $1,Local,no,https://www.nuggetmarket.com/specials/produce/81907201062/
+rocklin,2026-10-07,produce,3,Mandarin Tangerines,,6.99,ea,,,1.5,$6.99,Save $1.50,,no,https://www.nuggetmarket.com/specials/produce/3LB+CUTIES/
+rocklin,2026-10-07,produce,73873,Strawberries,,3.99,ea,,,2,$3.99,Save $2,California Grown,no,https://www.nuggetmarket.com/specials/produce/73873/
+rocklin,2026-10-07,meat,20170200000,Wagyu Chuck Roasts,,13.99,lb,0.8744,$0.87/oz,2,$13.99/lb.,Save $2/lb.,,no,https://www.nuggetmarket.com/specials/meat/20170200000/
+rocklin,2026-10-07,meat,20142900000,Organic Boneless & Skinless Chicken Breasts,,10.99,lb,0.6869,$0.69/oz,2,$10.99/lb.,Save $2/lb.,Organic,no,https://www.nuggetmarket.com/specials/meat/20142900000/
+rocklin,2026-10-07,meat,20070500000,Organic Whole Chickens,,3.99,lb,0.2494,$0.25/oz,0.5,$3.99/lb.,Save 50¢/lb.,Local; Organic,no,https://www.nuggetmarket.com/specials/meat/20070500000/
+rocklin,2026-10-07,meat,20062200000,Organic Bone‑In Chicken Thighs,,5.99,lb,0.3744,$0.37/oz,1,$5.99/lb.,Save $1/lb.,Local; Organic,no,https://www.nuggetmarket.com/specials/meat/20062200000/
+rocklin,2026-10-07,meat,20062000000,Organic Chicken Party Wings,,4.99,lb,0.3119,$0.31/oz,2,$4.99/lb.,Save $2/lb.,Local; Organic,no,https://www.nuggetmarket.com/specials/meat/20062000000/
+rocklin,2026-10-07,meat,20010500000,Pure Air‑Chilled Whole Chickens,,2.29,lb,0.1431,$0.14/oz,0.2,$2.29/lb.,Save 20¢/lb.,,no,https://www.nuggetmarket.com/specials/meat/20010500000/
+rocklin,2026-10-07,meat,2724145421,Gulf Prawns,,26.99,ea,,,6,$26.99,Save $6,,no,https://www.nuggetmarket.com/specials/meat/2724145421/
+rocklin,2026-10-07,meat,20220300000,Beef Boneless New York Steaks,,24.99,lb,1.5619,$1.56/oz,5,$24.99/lb.,Save $5/lb.,,no,https://www.nuggetmarket.com/specials/meat/20220300000/
+rocklin,2026-10-07,meat,20245500000,Grass‑Fed Beef Top Sirloin Picanha Steaks,,17.99,lb,1.1244,$1.12/oz,2,$17.99/lb.,Save $2/lb.,,no,https://www.nuggetmarket.com/specials/meat/20245500000/
+rocklin,2026-10-07,meat,20503600000,True Cod Fillets,,15.99,lb,0.9994,$1.00/oz,2,$15.99/lb.,Save $2/lb.,,no,https://www.nuggetmarket.com/specials/meat/20503600000/
+rocklin,2026-10-07,meat,20909300000,Gulf Prawns,,12.99,lb,0.8119,$0.81/oz,4,$12.99/lb.,Save $4/lb.,,no,https://www.nuggetmarket.com/specials/meat/20909300000/
+rocklin,2026-10-07,meat,81836002012,Grass-Fed Beef Stew Meat,,11.99,ea,,,1,$11.99,Save $1,,no,https://www.nuggetmarket.com/specials/meat/81836002012/
+rocklin,2026-10-07,meat,9041-567,New Zealand King Salmon Fillets,,29.99,lb,1.8744,$1.87/oz,3,$29.99/lb.,Save $3/lb.,,no,https://www.nuggetmarket.com/specials/meat/9041-567/
+rocklin,2026-10-07,staples,1356200052,Annie’s Graham Crackers,,3.99,ea,,,3,$3.99,Save $3,Local; Organic,no,https://www.nuggetmarket.com/specials/staples/1356200052/
+rocklin,2026-10-07,staples,3915301002,Colavita Extra Virgin Olive Oil,,22.99,ea,,,12,$22.99,Save $12,Imported,no,https://www.nuggetmarket.com/specials/staples/3915301002/
+rocklin,2026-10-07,staples,4010000067,Fleischmann’s Simply Homemade Cornbread Baking Mix,,2.5,ea,,,1.49,2/$5,Save $2.98 on 2,,no,https://www.nuggetmarket.com/specials/staples/4010000067/
+rocklin,2026-10-07,staples,85921600300,Cup4Cup Gluten-Free Flour,,13.99,ea,,,9,$13.99,Save $9,Gluten Free; Local,no,https://www.nuggetmarket.com/specials/staples/85921600300/
+rocklin,2026-10-07,staples,18,18 Chestnuts Soups,,5.99,ea,,,6,$5.99,Save $6,,no,https://www.nuggetmarket.com/specials/staples/18CHSTNUT/
+rocklin,2026-10-07,adult-beverages,8500001163,Louis M. Martini Sonoma County Cabernet Sauvignon,,16.99,ea,,,10,$16.99+crv,Save $10,,no,https://www.nuggetmarket.com/specials/adult-beverages/8500001163/
+rocklin,2026-10-07,adult-beverages,8800401154,Taaka Vodka,,5.99,ea,,,4,$5.99+crv,Save $4,,no,https://www.nuggetmarket.com/specials/adult-beverages/8800401154/
+rocklin,2026-10-07,adult-beverages,8807618695,Astral Tequila Blanco,,17.99,ea,,,8,$17.99+crv,Save $8,,no,https://www.nuggetmarket.com/specials/adult-beverages/8807618695/
+rocklin,2026-10-07,adult-beverages,72109419905,Goslings Black Seal Bermuda Black Rum,,19.99,ea,,,8,$19.99+crv,Save $8,,no,https://www.nuggetmarket.com/specials/adult-beverages/72109419905/
+rocklin,2026-10-07,adult-beverages,74265115210,Ferrari‑Carano Pinot Grigio,,12.99,ea,,,9,$12.99+crv,Save $9,,no,https://www.nuggetmarket.com/specials/adult-beverages/74265115210/
+rocklin,2026-10-07,adult-beverages,74459814778,Schug Sonoma Coast Pinot Noir,,16.99,ea,,,13,$16.99+crv,Save $13,,no,https://www.nuggetmarket.com/specials/adult-beverages/74459814778/
+rocklin,2026-10-07,adult-beverages,81153801956,Proper No. Twelve Irish Whiskey,,17.99,ea,,,8,$17.99+crv,Save $8,,no,https://www.nuggetmarket.com/specials/adult-beverages/81153801956/
+rocklin,2026-10-07,specialty-cheese,3114200088,Fresh Mozzarella Ball,,4.99,ea,,,2,$4.99,Save $2,Vegetarian,no,https://www.nuggetmarket.com/specials/specialty-cheese/3114200088/
+rocklin,2026-10-07,specialty-cheese,3114200103,Black Truffle Burrata,,7.99,ea,,,1,$7.99,Save $1,Vegetarian,no,https://www.nuggetmarket.com/specials/specialty-cheese/3114200103/
+rocklin,2026-10-07,specialty-cheese,3114200126,Mini Burrata,,6.99,ea,,,1,$6.99,Save $1,Vegetarian,no,https://www.nuggetmarket.com/specials/specialty-cheese/3114200126/
+rocklin,2026-10-07,specialty-cheese,3114200152,Stracciatella Burrata Filling,,5.49,ea,,,1,$5.49/ea.,Save $1/ea.,,no,https://www.nuggetmarket.com/specials/specialty-cheese/3114200152/
+rocklin,2026-10-07,specialty-cheese,23336100000,Lamb Chopper,,32.99,lb,2.0619,$2.06/oz,4,$32.99/lb.,Save $4/lb.,Vegetarian,no,https://www.nuggetmarket.com/specials/specialty-cheese/23336100000/
+rocklin,2026-10-07,specialty-cheese,23342100000,Fontina,,10.99,lb,0.6869,$0.69/oz,1,$10.99/lb.,Save $1/lb.,Vegetarian,no,https://www.nuggetmarket.com/specials/specialty-cheese/23342100000/
+rocklin,2026-10-07,bakery,5,Caramel Apple Cake,,24.99,ea,,,1,$24.99/ea.,Save $1/ea.,Scratch-Made,no,https://www.nuggetmarket.com/specials/bakery/5__inch__+CLASSIC/
+rocklin,2026-10-07,coffee-bar,1557,Thai Iced Tea,,4.5,ea,,,1.5,$4.50,Save $1.50,,no,https://www.nuggetmarket.com/specials/coffee-bar/1557/
+rocklin,2026-10-07,kitchen,88112245022,Firecracker Sushi Roll,,12.95,ea,,,1,$12.95/ea.,Save $1/ea.,Scratch-Made,no,https://www.nuggetmarket.com/specials/kitchen/88112245022/
+rocklin,2026-10-07,kitchen,88112245063,Crab Stick Philly Roll,,8.75,ea,,,1,$8.75/ea.,Save $1/ea.,Scratch-Made,no,https://www.nuggetmarket.com/specials/kitchen/88112245063/
+rocklin,2026-10-07,kitchen,0022356700000,The NOLA Sandwich,,11.99,ea,,,1,$11.99/ea.,Save $1/ea.,Scratch-Made,no,https://www.nuggetmarket.com/specials/kitchen/0022356700000/
+rocklin,2026-10-07,kitchen,0022356800000,The Rio Grande Sandwich,,13.99,ea,,,1,$13.99/ea.,Save $1/ea.,Scratch-Made,no,https://www.nuggetmarket.com/specials/kitchen/0022356800000/
+rocklin,2026-10-07,kitchen,22110600000,The Fryer’s Turkey Breast,,15.99,lb,0.9994,$1.00/oz,1,$15.99/lb.,Save $1/lb.,,no,https://www.nuggetmarket.com/specials/kitchen/22110600000/
+rocklin,2026-10-07,kitchen,22119400000,Uncured Pastrami,,20.99,lb,1.3119,$1.31/oz,1,$20.99/lb.,Save $1/lb.,,no,https://www.nuggetmarket.com/specials/kitchen/22119400000/
+rocklin,2026-10-07,kitchen,22155100000,Caramelized Onion Jack Cheese,,12.49,lb,0.7806,$0.78/oz,0.5,$12.49/lb.,Save 50¢/lb.,,no,https://www.nuggetmarket.com/specials/kitchen/22155100000/
+rocklin,2026-10-07,kitchen,22124700000,Herbed Butternut Squash,,12.99,lb,0.8119,$0.81/oz,1,$12.99/lb.,Save $1/lb.,Vegan; Scratch-Made,no,https://www.nuggetmarket.com/specials/kitchen/22124700000/
+rocklin,2026-10-07,kitchen,22181800000,Meatloaf,,13.99,lb,0.8744,$0.87/oz,,$13.99/lb.,,Scratch-Made,no,https://www.nuggetmarket.com/specials/kitchen/22181800000/
+rocklin,2026-10-07,floral,74597894223,"6"" Euphorbia in Ceramic",,22,ea,,,3,$22/ea.,Save $3/ea.,,no,https://www.nuggetmarket.com/specials/floral/74597894223/
+rocklin,2026-10-07,floral,87919900057,Octoberfest Bouquet,,17,ea,,,1,$17/ea.,Save $1/ea.,,no,https://www.nuggetmarket.com/specials/floral/87919900057/
