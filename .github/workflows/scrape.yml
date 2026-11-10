@@ -20,12 +20,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
-        uses: actions/checkout@v5
+        uses: actions/checkout@v7
 
       # Pull the existing published data so the analyzer sees the full history and
       # so republishing preserves every prior week. First run (no branch) is fine.
       - name: Checkout existing gh-pages data
-        uses: actions/checkout@v5
+        uses: actions/checkout@v7
         continue-on-error: true
         with:
           ref: gh-pages
