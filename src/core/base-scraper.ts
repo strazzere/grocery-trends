@@ -79,6 +79,15 @@ export abstract class BaseScraper {
       const products = [...bySku.values()];
       this.logger.info(`Normalized ${products.length} unique products`);
 
+      // An empty week almost always means the page layout changed (or the store
+      // cookie stopped working), not that nothing is on special. Fail loudly
+      // rather than publishing an empty snapshot into the history.
+      if (products.length === 0) {
+        throw new Error(
+          `Parsed 0 products for ${this.config.name} (${rawProducts.length} raw cards); page layout may have changed`,
+        );
+      }
+
       const snapshot: WeeklySnapshot = {
         location: {
           id: this.config.id,

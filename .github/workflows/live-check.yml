@@ -1,0 +1,25 @@
+name: Live Scraper Check
+
+# Catches nuggetmarket.com layout changes between the weekly scrapes.
+on:
+  schedule:
+    - cron: '0 18 * * 1' # Mondays, before the Wednesday ad flip
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  live:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: '24'
+          cache: 'npm'
+      - run: npm ci
+      - name: Live parse check
+        run: npm run test:live
+      - name: Store discovery
+        run: npx tsx src/cli/index.ts validate --discover

@@ -83,6 +83,10 @@ export const scrapeCommand = new Command('scrape')
       `Done. ${snapshots.length}/${configs.length} stores, ${total} specials total` +
         (failures ? `, ${failures} failed` : ''),
     );
+
+    // Partial failures still write the good stores' data above, but exit non-zero
+    // so CI surfaces the problem instead of silently dropping a store.
+    if (failures > 0) process.exitCode = 1;
   });
 
 /** Build a manifest from all snapshots on disk plus the configured stores. */

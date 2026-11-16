@@ -50,7 +50,15 @@ jobs:
       - name: Build
         run: npm run build
 
+      - name: Check for new Nugget stores
+        continue-on-error: true
+        run: node dist/cli/index.js validate --discover
+
+      # Don't abort on a partial failure: still publish the stores that worked,
+      # then fail the job at the end so the problem is visible.
       - name: Scrape weekly specials
+        id: scrape
+        continue-on-error: true
         run: node dist/cli/index.js scrape --all --data-dir public/data
 
       - name: Compute trends & deal scores
@@ -71,3 +79,9 @@ jobs:
           user_name: 'github-actions[bot]'
           user_email: 'github-actions[bot]@users.noreply.github.com'
           commit_message: 'Update specials data'
+
+      - name: Fail if any store failed to scrape
+        if: steps.scrape.outcome == 'failure'
+        run: |
+          echo "::error::One or more stores failed to scrape; see the scrape step log."
+          exit 1

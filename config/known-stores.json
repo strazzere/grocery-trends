@@ -1,0 +1,20 @@
+{
+  "_comment": "Store IDs already seen on nuggetmarket.com. `validate --discover` only warns about IDs not listed here or in config/stores.",
+  "storeIds": [
+    1,
+    2,
+    3,
+    5,
+    6,
+    7,
+    8,
+    9,
+    11,
+    13,
+    14,
+    15,
+    20,
+    21,
+    22
+  ]
+}
